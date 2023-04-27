@@ -1,0 +1,586 @@
+[debug] [2023-04-27T08:41:28.889Z] ----------------------------------------------------------------------
+[debug] [2023-04-27T08:41:28.891Z] Command:       /home/ephrem/.nvm/versions/node/v16.20.0/bin/node /usr/local/bin/firebase init
+[debug] [2023-04-27T08:41:28.891Z] CLI Version:   11.29.0
+[debug] [2023-04-27T08:41:28.891Z] Platform:      linux
+[debug] [2023-04-27T08:41:28.891Z] Node Version:  v16.20.0
+[debug] [2023-04-27T08:41:28.892Z] Time:          Thu Apr 27 2023 04:41:28 GMT-0400 (Eastern Daylight Time)
+[debug] [2023-04-27T08:41:28.892Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-27T08:41:28.895Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2023-04-27T08:41:28.914Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-27T08:41:28.915Z] > authorizing via signed-in user (ephywaanofii@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/ephrem/Desktop/Programs/Project And Programs/Web/React/ReactCrud/todo_app
+
+[debug] [2023-04-27T08:41:35.480Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2023-04-27T08:41:35.481Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2023-04-27T08:43:00.930Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-04-27T08:43:12.652Z] ----------------------------------------------------------------------
+[debug] [2023-04-27T08:43:12.654Z] Command:       /home/ephrem/.nvm/versions/node/v16.20.0/bin/node /usr/local/bin/firebase init
+[debug] [2023-04-27T08:43:12.655Z] CLI Version:   11.29.0
+[debug] [2023-04-27T08:43:12.655Z] Platform:      linux
+[debug] [2023-04-27T08:43:12.655Z] Node Version:  v16.20.0
+[debug] [2023-04-27T08:43:12.655Z] Time:          Thu Apr 27 2023 04:43:12 GMT-0400 (Eastern Daylight Time)
+[debug] [2023-04-27T08:43:12.655Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-27T08:43:12.661Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-27T08:43:12.661Z] > authorizing via signed-in user (ephywaanofii@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/ephrem/Desktop/Programs/Project And Programs/Web/React/ReactCrud/todo_app
+
+[debug] [2023-04-27T08:43:28.801Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-04-27T08:45:24.268Z] ----------------------------------------------------------------------
+[debug] [2023-04-27T08:45:24.270Z] Command:       /home/ephrem/.nvm/versions/node/v16.20.0/bin/node /usr/local/bin/firebase init
+[debug] [2023-04-27T08:45:24.270Z] CLI Version:   11.29.0
+[debug] [2023-04-27T08:45:24.270Z] Platform:      linux
+[debug] [2023-04-27T08:45:24.270Z] Node Version:  v16.20.0
+[debug] [2023-04-27T08:45:24.271Z] Time:          Thu Apr 27 2023 04:45:24 GMT-0400 (Eastern Daylight Time)
+[debug] [2023-04-27T08:45:24.271Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-27T08:45:24.277Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-27T08:45:24.277Z] > authorizing via signed-in user (ephywaanofii@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/ephrem/Desktop/Programs/Project And Programs/Web/React/ReactCrud/todo_app
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-04-27T08:45:42.604Z] > refreshing access token with scopes: []
+[debug] [2023-04-27T08:45:42.607Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2023-04-27T08:45:42.607Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2023-04-27T08:45:49.741Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2023-04-27T08:45:49.741Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2023-04-27T08:45:49.757Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2023-04-27T08:45:57.105Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2023-04-27T08:45:57.105Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Using project todo-app-cp-b3e1d (todo-app-cp) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2023-04-27T08:46:31.960Z] >>> [apiv2][query] GET https://www.gstatic.com/firebasejs/releases.json [none]
+[debug] [2023-04-27T08:46:38.972Z] <<< [apiv2][status] GET https://www.gstatic.com/firebasejs/releases.json 200
+[debug] [2023-04-27T08:46:38.973Z] <<< [apiv2][body] GET https://www.gstatic.com/firebasejs/releases.json {"current":{"version":"9.20.0","browserURL":"https://www.gstatic.com/firebasejs/9.20.0/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/9.20.0/firebase.tgz"},"live":{"version":"9.20","browserURL":"https://www.gstatic.com/firebasejs/live/9.20/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/live/9.20/firebase.tgz"},"components":{"analytics":"https://www.gstatic.com/firebasejs/9.20.0/firebase-analytics.js","app":"https://www.gstatic.com/firebasejs/9.20.0/firebase-app.js","app-check":"https://www.gstatic.com/firebasejs/9.20.0/firebase-app-check.js","auth":"https://www.gstatic.com/firebasejs/9.20.0/firebase-auth.js","auth/cordova":"https://www.gstatic.com/firebasejs/9.20.0/firebase-auth/cordova.js","auth/react-native":"https://www.gstatic.com/firebasejs/9.20.0/firebase-auth/react-native.js","functions":"https://www.gstatic.com/firebasejs/9.20.0/firebase-functions.js","firestore":"https://www.gstatic.com/firebasejs/9.20.0/firebase-firestore.js","firestore/lite":"https://www.gstatic.com/firebasejs/9.20.0/firebase-firestore/lite.js","installations":"https://www.gstatic.com/firebasejs/9.20.0/firebase-installations.js","storage":"https://www.gstatic.com/firebasejs/9.20.0/firebase-storage.js","performance":"https://www.gstatic.com/firebasejs/9.20.0/firebase-performance.js","remote-config":"https://www.gstatic.com/firebasejs/9.20.0/firebase-remote-config.js","messaging":"https://www.gstatic.com/firebasejs/9.20.0/firebase-messaging.js","messaging/sw":"https://www.gstatic.com/firebasejs/9.20.0/firebase-messaging/sw.js","database":"https://www.gstatic.com/firebasejs/9.20.0/firebase-database.js","firestore.memory":"https://www.gstatic.com/firebasejs/9.20.0/firebase-firestore.memory.js"}}
+[info] ✔  Wrote yes/index.html 
+[info] 
+[info] i  Detected a .git folder at /home/ephrem/Desktop/Programs/Project And Programs/Web/React/ReactCrud/todo_app 
+[info] i  Authorizing with GitHub to upload your service account to a GitHub repository's secrets store. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://github.com/login/oauth/authorize?client_id=89cf50f02ac6aaed3484&state=500553171&redirect_uri=http%3A%2F%2Flocalhost%3A9005&scope=read%3Auser%20repo%20public_repo
+[info] 
+[info] Waiting for authentication...
+[debug] [2023-04-27T08:49:12.435Z] >>> [apiv2][query] POST https://github.com/login/oauth/access_token [none]
+[debug] [2023-04-27T08:49:12.435Z] >>> [apiv2][body] POST https://github.com/login/oauth/access_token [stream]
+[debug] [2023-04-27T08:49:19.497Z] <<< [apiv2][status] POST https://github.com/login/oauth/access_token 200
+[debug] [2023-04-27T08:49:19.498Z] <<< [apiv2][body] POST https://github.com/login/oauth/access_token {"access_token":"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","token_type":"bearer","scope":"read:user,repo"}
+[debug] [2023-04-27T08:49:19.521Z] >>> [apiv2][query] GET https://api.github.com/user [none]
+[debug] [2023-04-27T08:49:26.577Z] <<< [apiv2][status] GET https://api.github.com/user 200
+[debug] [2023-04-27T08:49:26.578Z] <<< [apiv2][body] GET https://api.github.com/user {"login":"ephyg","id":84809084,"node_id":"MDQ6VXNlcjg0ODA5MDg0","avatar_url":"https://avatars.githubusercontent.com/u/84809084?v=4","gravatar_id":"","url":"https://api.github.com/users/ephyg","html_url":"https://github.com/ephyg","followers_url":"https://api.github.com/users/ephyg/followers","following_url":"https://api.github.com/users/ephyg/following{/other_user}","gists_url":"https://api.github.com/users/ephyg/gists{/gist_id}","starred_url":"https://api.github.com/users/ephyg/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/ephyg/subscriptions","organizations_url":"https://api.github.com/users/ephyg/orgs","repos_url":"https://api.github.com/users/ephyg/repos","events_url":"https://api.github.com/users/ephyg/events{/privacy}","received_events_url":"https://api.github.com/users/ephyg/received_events","type":"User","site_admin":false,"name":"Ephrem G","company":null,"blog":"https://linktr.ee/ephyg","location":"Adama Science and Technology University","email":null,"hireable":null,"bio":null,"twitter_username":"E_p_h_y_G","public_repos":11,"public_gists":0,"followers":17,"following":31,"created_at":"2021-05-25T19:26:06Z","updated_at":"2023-04-24T12:07:47Z","private_gists":0,"total_private_repos":6,"owned_private_repos":6,"disk_usage":111979,"collaborators":0,"two_factor_authentication":false,"plan":{"name":"free","space":976562499,"collaborators":0,"private_repos":10000}}
+[info] 
+[info] ✔  Success! Logged into GitHub as ephyg 
+[info] 
+[debug] [2023-04-27T08:50:05.904Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-04-27T08:50:13.727Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 404
+[debug] [2023-04-27T08:50:13.728Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] ⚠  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-27T08:50:25.698Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2023-04-27T08:50:32.618Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 404
+[debug] [2023-04-27T08:50:32.618Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[info] 
+[info] 
+[error] ⚠  The provided authorization cannot be used with this repository. If this repository is in an organization, did you remember to grant access? 
+[info] 
+[info] i  Action required: Visit this URL to ensure access has been granted to the appropriate organization(s) for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] 
+[debug] [2023-04-27T08:51:56.745Z] >>> [apiv2][query] GET https://api.github.com/repos/ephyg/React-Todo/actions/secrets/public-key type=owner
+[debug] [2023-04-27T08:52:03.958Z] <<< [apiv2][status] GET https://api.github.com/repos/ephyg/React-Todo/actions/secrets/public-key 200
+[debug] [2023-04-27T08:52:03.958Z] <<< [apiv2][body] GET https://api.github.com/repos/ephyg/React-Todo/actions/secrets/public-key {"key_id":"568250167242549743","key":"pJCJNDRI+jGxpxLDKkVQDylynwXVU2wXQS3fTXKssx8="}
+[debug] [2023-04-27T08:52:03.964Z] >>> [apiv2][query] GET https://api.github.com/repos/ephyg/React-Todo [none]
+[debug] [2023-04-27T08:52:11.052Z] <<< [apiv2][status] GET https://api.github.com/repos/ephyg/React-Todo 200
+[debug] [2023-04-27T08:52:11.053Z] <<< [apiv2][body] GET https://api.github.com/repos/ephyg/React-Todo {"id":633322493,"node_id":"R_kgDOJb-7_Q","name":"React-Todo","full_name":"ephyg/React-Todo","private":true,"owner":{"login":"ephyg","id":84809084,"node_id":"MDQ6VXNlcjg0ODA5MDg0","avatar_url":"https://avatars.githubusercontent.com/u/84809084?v=4","gravatar_id":"","url":"https://api.github.com/users/ephyg","html_url":"https://github.com/ephyg","followers_url":"https://api.github.com/users/ephyg/followers","following_url":"https://api.github.com/users/ephyg/following{/other_user}","gists_url":"https://api.github.com/users/ephyg/gists{/gist_id}","starred_url":"https://api.github.com/users/ephyg/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/ephyg/subscriptions","organizations_url":"https://api.github.com/users/ephyg/orgs","repos_url":"https://api.github.com/users/ephyg/repos","events_url":"https://api.github.com/users/ephyg/events{/privacy}","received_events_url":"https://api.github.com/users/ephyg/received_events","type":"User","site_admin":false},"html_url":"https://github.com/ephyg/React-Todo","description":null,"fork":false,"url":"https://api.github.com/repos/ephyg/React-Todo","forks_url":"https://api.github.com/repos/ephyg/React-Todo/forks","keys_url":"https://api.github.com/repos/ephyg/React-Todo/keys{/key_id}","collaborators_url":"https://api.github.com/repos/ephyg/React-Todo/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/ephyg/React-Todo/teams","hooks_url":"https://api.github.com/repos/ephyg/React-Todo/hooks","issue_events_url":"https://api.github.com/repos/ephyg/React-Todo/issues/events{/number}","events_url":"https://api.github.com/repos/ephyg/React-Todo/events","assignees_url":"https://api.github.com/repos/ephyg/React-Todo/assignees{/user}","branches_url":"https://api.github.com/repos/ephyg/React-Todo/branches{/branch}","tags_url":"https://api.github.com/repos/ephyg/React-Todo/tags","blobs_url":"https://api.github.com/repos/ephyg/React-Todo/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/ephyg/React-Todo/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/ephyg/React-Todo/git/refs{/sha}","trees_url":"https://api.github.com/repos/ephyg/React-Todo/git/trees{/sha}","statuses_url":"https://api.github.com/repos/ephyg/React-Todo/statuses/{sha}","languages_url":"https://api.github.com/repos/ephyg/React-Todo/languages","stargazers_url":"https://api.github.com/repos/ephyg/React-Todo/stargazers","contributors_url":"https://api.github.com/repos/ephyg/React-Todo/contributors","subscribers_url":"https://api.github.com/repos/ephyg/React-Todo/subscribers","subscription_url":"https://api.github.com/repos/ephyg/React-Todo/subscription","commits_url":"https://api.github.com/repos/ephyg/React-Todo/commits{/sha}","git_commits_url":"https://api.github.com/repos/ephyg/React-Todo/git/commits{/sha}","comments_url":"https://api.github.com/repos/ephyg/React-Todo/comments{/number}","issue_comment_url":"https://api.github.com/repos/ephyg/React-Todo/issues/comments{/number}","contents_url":"https://api.github.com/repos/ephyg/React-Todo/contents/{+path}","compare_url":"https://api.github.com/repos/ephyg/React-Todo/compare/{base}...{head}","merges_url":"https://api.github.com/repos/ephyg/React-Todo/merges","archive_url":"https://api.github.com/repos/ephyg/React-Todo/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/ephyg/React-Todo/downloads","issues_url":"https://api.github.com/repos/ephyg/React-Todo/issues{/number}","pulls_url":"https://api.github.com/repos/ephyg/React-Todo/pulls{/number}","milestones_url":"https://api.github.com/repos/ephyg/React-Todo/milestones{/number}","notifications_url":"https://api.github.com/repos/ephyg/React-Todo/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/ephyg/React-Todo/labels{/name}","releases_url":"https://api.github.com/repos/ephyg/React-Todo/releases{/id}","deployments_url":"https://api.github.com/repos/ephyg/React-Todo/deployments","created_at":"2023-04-27T08:51:13Z","updated_at":"2023-04-27T08:51:13Z","pushed_at":"2023-04-27T08:51:13Z","git_url":"git://github.com/ephyg/React-Todo.git","ssh_url":"git@github.com:ephyg/React-Todo.git","clone_url":"https://github.com/ephyg/React-Todo.git","svn_url":"https://github.com/ephyg/React-Todo","homepage":null,"size":0,"stargazers_count":0,"watchers_count":0,"language":null,"has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":false,"has_pages":false,"has_discussions":false,"forks_count":0,"mirror_url":null,"archived":false,"disabled":false,"open_issues_count":0,"license":null,"allow_forking":true,"is_template":false,"web_commit_signoff_required":false,"topics":[],"visibility":"private","forks":0,"open_issues":0,"watchers":0,"default_branch":"main","permissions":{"admin":true,"maintain":true,"push":true,"triage":true,"pull":true},"temp_clone_token":"AUHBK7FL52I6KEXJQO3AJK3EJI4N6","allow_squash_merge":true,"allow_merge_commit":true,"allow_rebase_merge":true,"allow_auto_merge":false,"delete_branch_on_merge":false,"allow_update_branch":false,"use_squash_pr_title_as_default":false,"squash_merge_commit_message":"COMMIT_MESSAGES","squash_merge_commit_title":"COMMIT_OR_PR_TITLE","merge_commit_message":"PR_TITLE","merge_commit_title":"MERGE_MESSAGE","network_count":0,"subscribers_count":1}
+[debug] [2023-04-27T08:52:11.057Z] >>> [apiv2][query] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts [none]
+[debug] [2023-04-27T08:52:11.057Z] >>> [apiv2][body] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts {"accountId":"github-action-633322493","serviceAccount":{"displayName":"GitHub Actions (ephyg/React-Todo)","description":"A service account with permission to deploy to Firebase Hosting for the GitHub repository ephyg/React-Todo"}}
+[debug] [2023-04-27T08:52:19.006Z] <<< [apiv2][status] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts 200
+[debug] [2023-04-27T08:52:19.007Z] <<< [apiv2][body] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts [omitted]
+[debug] [2023-04-27T08:52:19.010Z] >>> [apiv2][query] GET https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com [none]
+[debug] [2023-04-27T08:52:19.018Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:getIamPolicy [none]
+[debug] [2023-04-27T08:52:26.497Z] <<< [apiv2][status] GET https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com 200
+[debug] [2023-04-27T08:52:26.498Z] <<< [apiv2][body] GET https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com {"name":"projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com","projectId":"todo-app-cp-b3e1d","uniqueId":"111442197596450389895","email":"github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com","displayName":"GitHub Actions (ephyg/React-Todo)","etag":"MDEwMjE5MjA=","description":"A service account with permission to deploy to Firebase Hosting for the GitHub repository ephyg/React-Todo","oauth2ClientId":"111442197596450389895"}
+[debug] [2023-04-27T08:52:26.625Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:getIamPolicy 200
+[debug] [2023-04-27T08:52:26.626Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:getIamPolicy {"version":1,"etag":"BwX6RfDTb4I=","bindings":[{"role":"roles/firebase.managementServiceAgent","members":["serviceAccount:firebase-service-account@firebase-sa-management.iam.gserviceaccount.com","serviceAccount:service-52676973475@gcp-sa-firebase.iam.gserviceaccount.com"]},{"role":"roles/firebase.sdkAdminServiceAgent","members":["serviceAccount:firebase-adminsdk-56jvi@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/firebaserules.system","members":["serviceAccount:service-52676973475@firebase-rules.iam.gserviceaccount.com"]},{"role":"roles/firestore.serviceAgent","members":["serviceAccount:service-52676973475@gcp-sa-firestore.iam.gserviceaccount.com"]},{"role":"roles/iam.serviceAccountTokenCreator","members":["serviceAccount:firebase-adminsdk-56jvi@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/owner","members":["user:ephywaanofii@gmail.com"]},{"role":"roles/pubsub.serviceAgent","members":["serviceAccount:service-52676973475@gcp-sa-pubsub.iam.gserviceaccount.com"]}]}
+[debug] [2023-04-27T08:52:26.630Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:setIamPolicy [none]
+[debug] [2023-04-27T08:52:26.630Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:setIamPolicy {"policy":{"version":1,"etag":"BwX6RfDTb4I=","bindings":[{"role":"roles/firebase.managementServiceAgent","members":["serviceAccount:firebase-service-account@firebase-sa-management.iam.gserviceaccount.com","serviceAccount:service-52676973475@gcp-sa-firebase.iam.gserviceaccount.com"]},{"role":"roles/firebase.sdkAdminServiceAgent","members":["serviceAccount:firebase-adminsdk-56jvi@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/firebaserules.system","members":["serviceAccount:service-52676973475@firebase-rules.iam.gserviceaccount.com"]},{"role":"roles/firestore.serviceAgent","members":["serviceAccount:service-52676973475@gcp-sa-firestore.iam.gserviceaccount.com"]},{"role":"roles/iam.serviceAccountTokenCreator","members":["serviceAccount:firebase-adminsdk-56jvi@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/owner","members":["user:ephywaanofii@gmail.com"]},{"role":"roles/pubsub.serviceAgent","members":["serviceAccount:service-52676973475@gcp-sa-pubsub.iam.gserviceaccount.com"]},{"role":"roles/firebaseauth.admin","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/serviceusage.apiKeysViewer","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/firebasehosting.admin","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/run.viewer","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]}]},"updateMask":"bindings"}
+[debug] [2023-04-27T08:52:35.140Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:setIamPolicy 200
+[debug] [2023-04-27T08:52:35.141Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:setIamPolicy {"version":1,"etag":"BwX6TXnbJtA=","bindings":[{"role":"roles/firebase.managementServiceAgent","members":["serviceAccount:firebase-service-account@firebase-sa-management.iam.gserviceaccount.com","serviceAccount:service-52676973475@gcp-sa-firebase.iam.gserviceaccount.com"]},{"role":"roles/firebase.sdkAdminServiceAgent","members":["serviceAccount:firebase-adminsdk-56jvi@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/firebaseauth.admin","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/firebasehosting.admin","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/firebaserules.system","members":["serviceAccount:service-52676973475@firebase-rules.iam.gserviceaccount.com"]},{"role":"roles/firestore.serviceAgent","members":["serviceAccount:service-52676973475@gcp-sa-firestore.iam.gserviceaccount.com"]},{"role":"roles/iam.serviceAccountTokenCreator","members":["serviceAccount:firebase-adminsdk-56jvi@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/owner","members":["user:ephywaanofii@gmail.com"]},{"role":"roles/pubsub.serviceAgent","members":["serviceAccount:service-52676973475@gcp-sa-pubsub.iam.gserviceaccount.com"]},{"role":"roles/run.viewer","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/serviceusage.apiKeysViewer","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]}]}
+[debug] [2023-04-27T08:52:35.142Z] >>> [apiv2][query] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com/keys [none]
+[debug] [2023-04-27T08:52:35.143Z] >>> [apiv2][body] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com/keys {"keyAlgorithm":"KEY_ALG_UNSPECIFIED","privateKeyType":"TYPE_GOOGLE_CREDENTIALS_FILE"}
+[debug] [2023-04-27T08:52:52.814Z] <<< [apiv2][status] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com/keys 200
+[debug] [2023-04-27T08:52:52.814Z] <<< [apiv2][body] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com/keys {"name":"projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com/keys/28c428c38b0938935397fdb43914fa37ba3a49a5","privateKeyType":"TYPE_GOOGLE_CREDENTIALS_FILE","privateKeyData":"ewogICJ0eXBlIjogInNlcnZpY2VfYWNjb3VudCIsCiAgInByb2plY3RfaWQiOiAidG9kby1hcHAtY3AtYjNlMWQiLAogICJwcml2YXRlX2tleV9pZCI6ICIyOGM0MjhjMzhiMDkzODkzNTM5N2ZkYjQzOTE0ZmEzN2JhM2E0OWE1IiwKICAicHJpdmF0ZV9rZXkiOiAiLS0tLS1CRUdJTiBQUklWQVRFIEtFWS0tLS0tXG5NSUlFdlFJQkFEQU5CZ2txaGtpRzl3MEJBUUVGQUFTQ0JLY3dnZ1NqQWdFQUFvSUJBUURGZ3h3WXRZU0lLMjI2XG41M1FJSG1WUFBUSVp0M3YwcHhLQTEyMlpLak5XYkxIcnVPeGlselpBNFB0c1hGWmhTK1NIVlZIekx2b1J6V2xjXG5wdm9paVd0NkdUd3kzSXVNYUJ4QnpaelU0RGtDcUlkUWMzNDE0Y2JIYWRrWGJWdlZaNnpnOXdWUHBJdVFRcHFZXG5IZlBpWko3aE9ndkR2ZzdWUmhPdlU4eS9iSCtyZ1FSOGVwais0bnhtYm0ybHdKNmVISzBicjh3bGhNcXpRVG1FXG5OTGJadWNWQUx5VzNhTGk4cStlZUF3UG5CV25IRUdLM3dnVW5uYWtwUVJJcWdLdGxHMVpSMTNSZzh4Q0R6c2Q2XG5aVU45KzA1RWd1TjNIUFFzSnZBTVpqemswUXJHd3pXV2JHWnI3YTJ0dmZ4NUc4WDNQK2VIbXZHWG9RYk9HYyt0XG5sYUpralp6NUFnTUJBQUVDZ2dFQUhVell0MWovaGJIU1JVRlRzYnYzUnllQURnSkRDeEFENElWL2dUMXZsZU8vXG5DekNJMmd3RGo0d0Yrdi9CdUF6KytiZndWY3FZd2dPcEhJWmxkMTBsSUFlci8xYnFCQlM5RXcxSHRaUU9jUW9EXG5paTJhbDFvSExUV29iN1REUkZKdEpOeGxvYzNQcWNGdnJKNzQ1ZWkyWWNRYUtGb1lCT1NGN3JoWVF6elFhR1pvXG5OWktMYUxITkx5MXB1U0Rmb2hKY1psL055dFBDd3JUNVB6VVI3eXNmN3cxSTRwVVdFc3VGYmRKaFl1aitPZHJPXG5TM2gzekdiWHJyMVFBQndaK0hBZmpSOVVRbzU0aDBiU1lNTjVnTXZ6amJrMGdmNFRhQTZwSDd1VUU1eFhUbmhEXG5uRytFNGJLQjR0dVhYRXFpdFpzdHlOa3pVMWUzaWJUV2tJa0ppRzZzeHdLQmdRRDBnWFNFZGZtaTMyb0dTSU1KXG54YVhIS0tTdkU0NHdzeE5jVEZ4UW01dDdsK0EvVWNyMDltWjR0V2l0KzFVTTVBNzN3TGZFbktqbXFBQitWYXJlXG5Delk4SnRzbGsraUVxc1lQMEhvYVNOamNtY1VMZVVJbHkrYk44dWRlUEp4OXZiMHF4NmkrTzI0eDNrZHNQcGhZXG5yZ2lxa2xaTmFvYzd4OWVZOXNDUXNscTlKd0tCZ1FET3pCcGNRN2FpV3NLUms3anhQN2d4U1YvNTBVaGltSFB4XG5STzY2cm9hNWorQWlLekl1MTRIVDNSWjd5VjV1MU5JZEZRTDZQc3dNaDVKc1FLL0crVFl3eXg2dGtrRVhCRTgvXG5OQXQyZVkzUW9hOTdod2dBcVZHaWNVaThyekNRV1djOUhRQXhsemhyMlNZODBDNmpvZVVLNXFuTVcyWTZYcHEzXG5QeENZSU4xbzN3S0JnUUNRRUtMdDFYR0VwUzBjaktjaEgrTUJDUktYMGVickRPaXdicEhLTVJXWTZqRUlQaEplXG42YndSRFpxalFMNnBQTXNROGUyVm5GVHNxenEzTlpUYkJqSXJtUjF3ODhpQ092aytvakQvd2NKOW9PRDRWTGREXG4rL04vajhzQnZLYmNjK3E5QlMySkFRMTV0cVhRd3NVVEkyQVoyT1dlOGREQ3lZcGdKNnZvMWg0ZTZ3S0JnQjloXG5kNHFTdCs4eEtKOWd0RXJmcVhySk1LZy9LdVhUVHB6SkloVHdFUCt0cG94bzA2ZXFDa2gxSDBsUGlHWDNJNTlJXG5KZmlGZVA5WnYwMXdEM3g1S3RFQ3NiZ1RIbzk0bHZIM1d0bnluaU9QdFlwZ05rV3JhL2pqaWU4Z0FwV1ZDNGFKXG5sUkx4YUoxdENWRm5JZnl3djRvRThMVlRGVk04TWV3bXhNVGhEOWd2QW9HQWJDQXhSdEdCaGQ2L3c1VTlCaUR1XG5HdEUvMUpuODFPUDdSRS9LT0pYMDA0ZnlId01MaTZkajNvVXNtZWVQd2t6ZzRxL243T04rTWdnSlp1MTk0Q1JyXG5VQU9Ralg2WFI3eVVnUXNSdkh3dm9uR05DTnZqUzIvamN1aXFQWWJUWDllTHNtdzdFZUM3VlhNemNYZGF4eXh5XG5rcXZ4Z09QajNrL21SUlY5TWc4RiswWT1cbi0tLS0tRU5EIFBSSVZBVEUgS0VZLS0tLS1cbiIsCiAgImNsaWVudF9lbWFpbCI6ICJnaXRodWItYWN0aW9uLTYzMzMyMjQ5M0B0b2RvLWFwcC1jcC1iM2UxZC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsCiAgImNsaWVudF9pZCI6ICIxMTE0NDIxOTc1OTY0NTAzODk4OTUiLAogICJhdXRoX3VyaSI6ICJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20vby9vYXV0aDIvYXV0aCIsCiAgInRva2VuX3VyaSI6ICJodHRwczovL29hdXRoMi5nb29nbGVhcGlzLmNvbS90b2tlbiIsCiAgImF1dGhfcHJvdmlkZXJfeDUwOV9jZXJ0X3VybCI6ICJodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9vYXV0aDIvdjEvY2VydHMiLAogICJjbGllbnRfeDUwOV9jZXJ0X3VybCI6ICJodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9yb2JvdC92MS9tZXRhZGF0YS94NTA5L2dpdGh1Yi1hY3Rpb24tNjMzMzIyNDkzJTQwdG9kby1hcHAtY3AtYjNlMWQuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20iCn0K","validAfterTime":"2023-04-27T08:52:44Z","validBeforeTime":"9999-12-31T23:59:59Z","keyAlgorithm":"KEY_ALG_RSA_2048","keyOrigin":"GOOGLE_PROVIDED","keyType":"USER_MANAGED"}
+[info] 
+[info] ✔  Created service account github-action-633322493 with Firebase Hosting admin permissions. 
+[debug] [2023-04-27T08:52:52.819Z] >>> [apiv2][query] PUT https://api.github.com/repos/ephyg/React-Todo/actions/secrets/FIREBASE_SERVICE_ACCOUNT_TODO_APP_CP_B3E1D [none]
+[debug] [2023-04-27T08:52:52.819Z] >>> [apiv2][body] PUT https://api.github.com/repos/ephyg/React-Todo/actions/secrets/FIREBASE_SERVICE_ACCOUNT_TODO_APP_CP_B3E1D {"encrypted_value":"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","key_id":"568250167242549743"}
+[debug] [2023-04-27T08:53:00.120Z] <<< [apiv2][status] PUT https://api.github.com/repos/ephyg/React-Todo/actions/secrets/FIREBASE_SERVICE_ACCOUNT_TODO_APP_CP_B3E1D 201
+[debug] [2023-04-27T08:53:00.121Z] <<< [apiv2][body] PUT https://api.github.com/repos/ephyg/React-Todo/actions/secrets/FIREBASE_SERVICE_ACCOUNT_TODO_APP_CP_B3E1D {}
+[info] ✔  Uploaded service account JSON to GitHub as secret FIREBASE_SERVICE_ACCOUNT_TODO_APP_CP_B3E1D. 
+[info] i  You can manage your secrets at https://github.com/ephyg/React-Todo/settings/secrets. 
+[info] 
+[info] 
+[info] ✔  Created workflow file /home/ephrem/Desktop/Programs/Project And Programs/Web/React/ReactCrud/todo_app/.github/workflows/firebase-hosting-pull-request.yml 
+[info] 
+[info] ✔  Created workflow file /home/ephrem/Desktop/Programs/Project And Programs/Web/React/ReactCrud/todo_app/.github/workflows/firebase-hosting-merge.yml 
+[info] 
+[info] i  Action required: Visit this URL to revoke authorization for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] i  Action required: Push any new workflow file(s) to your repo 
+[info] 
+[info] i  Writing configuration info to firebase.json... 
+[info] i  Writing project information to .firebaserc... 
+[info] 
+[info] ✔  Firebase initialization complete! 
+[debug] [2023-04-27T08:54:33.640Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-04-27T08:54:50.921Z] ----------------------------------------------------------------------
+[debug] [2023-04-27T08:54:50.922Z] Command:       /home/ephrem/.nvm/versions/node/v16.20.0/bin/node /usr/local/bin/firebase init
+[debug] [2023-04-27T08:54:50.923Z] CLI Version:   11.29.0
+[debug] [2023-04-27T08:54:50.923Z] Platform:      linux
+[debug] [2023-04-27T08:54:50.923Z] Node Version:  v16.20.0
+[debug] [2023-04-27T08:54:50.924Z] Time:          Thu Apr 27 2023 04:54:50 GMT-0400 (Eastern Daylight Time)
+[debug] [2023-04-27T08:54:50.924Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-27T08:54:51.002Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-27T08:54:51.003Z] > authorizing via signed-in user (ephywaanofii@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/ephrem/Desktop/Programs/Project And Programs/Web/React/ReactCrud/todo_app
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-04-27T08:54:58.051Z] Using project from CLI flag: todo-app-cp-b3e1d
+[debug] [2023-04-27T08:54:58.059Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/todo-app-cp-b3e1d [none]
+[debug] [2023-04-27T08:55:05.365Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/todo-app-cp-b3e1d 200
+[debug] [2023-04-27T08:55:05.366Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/todo-app-cp-b3e1d {"projectId":"todo-app-cp-b3e1d","projectNumber":"52676973475","displayName":"todo-app-cp","name":"projects/todo-app-cp-b3e1d","resources":{"hostingSite":"todo-app-cp-b3e1d"},"state":"ACTIVE","etag":"1_b3634369-5a5c-4b4b-a0b3-7ff42869c60b"}
+[info] i  Using project todo-app-cp-b3e1d (todo-app-cp) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2023-04-27T08:55:14.041Z] >>> [apiv2][query] GET https://www.gstatic.com/firebasejs/releases.json [none]
+[debug] [2023-04-27T08:55:21.025Z] <<< [apiv2][status] GET https://www.gstatic.com/firebasejs/releases.json 200
+[debug] [2023-04-27T08:55:21.026Z] <<< [apiv2][body] GET https://www.gstatic.com/firebasejs/releases.json {"current":{"version":"9.20.0","browserURL":"https://www.gstatic.com/firebasejs/9.20.0/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/9.20.0/firebase.tgz"},"live":{"version":"9.20","browserURL":"https://www.gstatic.com/firebasejs/live/9.20/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/live/9.20/firebase.tgz"},"components":{"analytics":"https://www.gstatic.com/firebasejs/9.20.0/firebase-analytics.js","app":"https://www.gstatic.com/firebasejs/9.20.0/firebase-app.js","app-check":"https://www.gstatic.com/firebasejs/9.20.0/firebase-app-check.js","auth":"https://www.gstatic.com/firebasejs/9.20.0/firebase-auth.js","auth/cordova":"https://www.gstatic.com/firebasejs/9.20.0/firebase-auth/cordova.js","auth/react-native":"https://www.gstatic.com/firebasejs/9.20.0/firebase-auth/react-native.js","functions":"https://www.gstatic.com/firebasejs/9.20.0/firebase-functions.js","firestore":"https://www.gstatic.com/firebasejs/9.20.0/firebase-firestore.js","firestore/lite":"https://www.gstatic.com/firebasejs/9.20.0/firebase-firestore/lite.js","installations":"https://www.gstatic.com/firebasejs/9.20.0/firebase-installations.js","storage":"https://www.gstatic.com/firebasejs/9.20.0/firebase-storage.js","performance":"https://www.gstatic.com/firebasejs/9.20.0/firebase-performance.js","remote-config":"https://www.gstatic.com/firebasejs/9.20.0/firebase-remote-config.js","messaging":"https://www.gstatic.com/firebasejs/9.20.0/firebase-messaging.js","messaging/sw":"https://www.gstatic.com/firebasejs/9.20.0/firebase-messaging/sw.js","database":"https://www.gstatic.com/firebasejs/9.20.0/firebase-database.js","firestore.memory":"https://www.gstatic.com/firebasejs/9.20.0/firebase-firestore.memory.js"}}
+[info] ✔  Wrote build/index.html 
+[info] 
+[info] i  Detected a .git folder at /home/ephrem/Desktop/Programs/Project And Programs/Web/React/ReactCrud/todo_app 
+[info] i  Authorizing with GitHub to upload your service account to a GitHub repository's secrets store. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://github.com/login/oauth/authorize?client_id=89cf50f02ac6aaed3484&state=392867360&redirect_uri=http%3A%2F%2Flocalhost%3A9005&scope=read%3Auser%20repo%20public_repo
+[info] 
+[info] Waiting for authentication...
+[debug] [2023-04-27T08:55:22.064Z] >>> [apiv2][query] POST https://github.com/login/oauth/access_token [none]
+[debug] [2023-04-27T08:55:22.064Z] >>> [apiv2][body] POST https://github.com/login/oauth/access_token [stream]
+[debug] [2023-04-27T08:55:29.144Z] <<< [apiv2][status] POST https://github.com/login/oauth/access_token 200
+[debug] [2023-04-27T08:55:29.145Z] <<< [apiv2][body] POST https://github.com/login/oauth/access_token {"access_token":"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","token_type":"bearer","scope":"read:user,repo"}
+[debug] [2023-04-27T08:55:29.165Z] >>> [apiv2][query] GET https://api.github.com/user [none]
+[debug] [2023-04-27T08:55:46.258Z] <<< [apiv2][status] GET https://api.github.com/user 200
+[debug] [2023-04-27T08:55:46.259Z] <<< [apiv2][body] GET https://api.github.com/user {"login":"ephyg","id":84809084,"node_id":"MDQ6VXNlcjg0ODA5MDg0","avatar_url":"https://avatars.githubusercontent.com/u/84809084?v=4","gravatar_id":"","url":"https://api.github.com/users/ephyg","html_url":"https://github.com/ephyg","followers_url":"https://api.github.com/users/ephyg/followers","following_url":"https://api.github.com/users/ephyg/following{/other_user}","gists_url":"https://api.github.com/users/ephyg/gists{/gist_id}","starred_url":"https://api.github.com/users/ephyg/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/ephyg/subscriptions","organizations_url":"https://api.github.com/users/ephyg/orgs","repos_url":"https://api.github.com/users/ephyg/repos","events_url":"https://api.github.com/users/ephyg/events{/privacy}","received_events_url":"https://api.github.com/users/ephyg/received_events","type":"User","site_admin":false,"name":"Ephrem G","company":null,"blog":"https://linktr.ee/ephyg","location":"Adama Science and Technology University","email":null,"hireable":null,"bio":null,"twitter_username":"E_p_h_y_G","public_repos":11,"public_gists":0,"followers":17,"following":31,"created_at":"2021-05-25T19:26:06Z","updated_at":"2023-04-24T12:07:47Z","private_gists":0,"total_private_repos":7,"owned_private_repos":7,"disk_usage":111979,"collaborators":0,"two_factor_authentication":false,"plan":{"name":"free","space":976562499,"collaborators":0,"private_repos":10000}}
+[info] 
+[info] ✔  Success! Logged into GitHub as ephyg 
+[info] 
+[debug] [2023-04-27T08:56:19.308Z] >>> [apiv2][query] GET https://api.github.com/repos/ephyg/React-Todo/actions/secrets/public-key type=owner
+[debug] [2023-04-27T08:56:26.303Z] <<< [apiv2][status] GET https://api.github.com/repos/ephyg/React-Todo/actions/secrets/public-key 200
+[debug] [2023-04-27T08:56:26.304Z] <<< [apiv2][body] GET https://api.github.com/repos/ephyg/React-Todo/actions/secrets/public-key {"key_id":"568250167242549743","key":"pJCJNDRI+jGxpxLDKkVQDylynwXVU2wXQS3fTXKssx8="}
+[debug] [2023-04-27T08:56:26.309Z] >>> [apiv2][query] GET https://api.github.com/repos/ephyg/React-Todo [none]
+[debug] [2023-04-27T08:56:33.076Z] <<< [apiv2][status] GET https://api.github.com/repos/ephyg/React-Todo 200
+[debug] [2023-04-27T08:56:33.077Z] <<< [apiv2][body] GET https://api.github.com/repos/ephyg/React-Todo {"id":633322493,"node_id":"R_kgDOJb-7_Q","name":"React-Todo","full_name":"ephyg/React-Todo","private":true,"owner":{"login":"ephyg","id":84809084,"node_id":"MDQ6VXNlcjg0ODA5MDg0","avatar_url":"https://avatars.githubusercontent.com/u/84809084?v=4","gravatar_id":"","url":"https://api.github.com/users/ephyg","html_url":"https://github.com/ephyg","followers_url":"https://api.github.com/users/ephyg/followers","following_url":"https://api.github.com/users/ephyg/following{/other_user}","gists_url":"https://api.github.com/users/ephyg/gists{/gist_id}","starred_url":"https://api.github.com/users/ephyg/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/ephyg/subscriptions","organizations_url":"https://api.github.com/users/ephyg/orgs","repos_url":"https://api.github.com/users/ephyg/repos","events_url":"https://api.github.com/users/ephyg/events{/privacy}","received_events_url":"https://api.github.com/users/ephyg/received_events","type":"User","site_admin":false},"html_url":"https://github.com/ephyg/React-Todo","description":null,"fork":false,"url":"https://api.github.com/repos/ephyg/React-Todo","forks_url":"https://api.github.com/repos/ephyg/React-Todo/forks","keys_url":"https://api.github.com/repos/ephyg/React-Todo/keys{/key_id}","collaborators_url":"https://api.github.com/repos/ephyg/React-Todo/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/ephyg/React-Todo/teams","hooks_url":"https://api.github.com/repos/ephyg/React-Todo/hooks","issue_events_url":"https://api.github.com/repos/ephyg/React-Todo/issues/events{/number}","events_url":"https://api.github.com/repos/ephyg/React-Todo/events","assignees_url":"https://api.github.com/repos/ephyg/React-Todo/assignees{/user}","branches_url":"https://api.github.com/repos/ephyg/React-Todo/branches{/branch}","tags_url":"https://api.github.com/repos/ephyg/React-Todo/tags","blobs_url":"https://api.github.com/repos/ephyg/React-Todo/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/ephyg/React-Todo/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/ephyg/React-Todo/git/refs{/sha}","trees_url":"https://api.github.com/repos/ephyg/React-Todo/git/trees{/sha}","statuses_url":"https://api.github.com/repos/ephyg/React-Todo/statuses/{sha}","languages_url":"https://api.github.com/repos/ephyg/React-Todo/languages","stargazers_url":"https://api.github.com/repos/ephyg/React-Todo/stargazers","contributors_url":"https://api.github.com/repos/ephyg/React-Todo/contributors","subscribers_url":"https://api.github.com/repos/ephyg/React-Todo/subscribers","subscription_url":"https://api.github.com/repos/ephyg/React-Todo/subscription","commits_url":"https://api.github.com/repos/ephyg/React-Todo/commits{/sha}","git_commits_url":"https://api.github.com/repos/ephyg/React-Todo/git/commits{/sha}","comments_url":"https://api.github.com/repos/ephyg/React-Todo/comments{/number}","issue_comment_url":"https://api.github.com/repos/ephyg/React-Todo/issues/comments{/number}","contents_url":"https://api.github.com/repos/ephyg/React-Todo/contents/{+path}","compare_url":"https://api.github.com/repos/ephyg/React-Todo/compare/{base}...{head}","merges_url":"https://api.github.com/repos/ephyg/React-Todo/merges","archive_url":"https://api.github.com/repos/ephyg/React-Todo/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/ephyg/React-Todo/downloads","issues_url":"https://api.github.com/repos/ephyg/React-Todo/issues{/number}","pulls_url":"https://api.github.com/repos/ephyg/React-Todo/pulls{/number}","milestones_url":"https://api.github.com/repos/ephyg/React-Todo/milestones{/number}","notifications_url":"https://api.github.com/repos/ephyg/React-Todo/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/ephyg/React-Todo/labels{/name}","releases_url":"https://api.github.com/repos/ephyg/React-Todo/releases{/id}","deployments_url":"https://api.github.com/repos/ephyg/React-Todo/deployments","created_at":"2023-04-27T08:51:13Z","updated_at":"2023-04-27T08:51:13Z","pushed_at":"2023-04-27T08:51:13Z","git_url":"git://github.com/ephyg/React-Todo.git","ssh_url":"git@github.com:ephyg/React-Todo.git","clone_url":"https://github.com/ephyg/React-Todo.git","svn_url":"https://github.com/ephyg/React-Todo","homepage":null,"size":0,"stargazers_count":0,"watchers_count":0,"language":null,"has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":false,"has_pages":false,"has_discussions":false,"forks_count":0,"mirror_url":null,"archived":false,"disabled":false,"open_issues_count":0,"license":null,"allow_forking":true,"is_template":false,"web_commit_signoff_required":false,"topics":[],"visibility":"private","forks":0,"open_issues":0,"watchers":0,"default_branch":"main","permissions":{"admin":true,"maintain":true,"push":true,"triage":true,"pull":true},"temp_clone_token":"AUHBK7GPJJHJFU2E5PAO3XDEJI46K","allow_squash_merge":true,"allow_merge_commit":true,"allow_rebase_merge":true,"allow_auto_merge":false,"delete_branch_on_merge":false,"allow_update_branch":false,"use_squash_pr_title_as_default":false,"squash_merge_commit_message":"COMMIT_MESSAGES","squash_merge_commit_title":"COMMIT_OR_PR_TITLE","merge_commit_message":"PR_TITLE","merge_commit_title":"MERGE_MESSAGE","network_count":0,"subscribers_count":1}
+[debug] [2023-04-27T08:56:33.080Z] >>> [apiv2][query] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts [none]
+[debug] [2023-04-27T08:56:33.081Z] >>> [apiv2][body] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts {"accountId":"github-action-633322493","serviceAccount":{"displayName":"GitHub Actions (ephyg/React-Todo)","description":"A service account with permission to deploy to Firebase Hosting for the GitHub repository ephyg/React-Todo"}}
+[debug] [2023-04-27T08:56:40.842Z] <<< [apiv2][status] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts 409
+[debug] [2023-04-27T08:56:40.843Z] <<< [apiv2][body] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts [omitted]
+[debug] [2023-04-27T08:56:40.847Z] >>> [apiv2][query] GET https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com [none]
+[debug] [2023-04-27T08:56:40.851Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:getIamPolicy [none]
+[debug] [2023-04-27T08:56:48.273Z] <<< [apiv2][status] GET https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com 200
+[debug] [2023-04-27T08:56:48.274Z] <<< [apiv2][body] GET https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com {"name":"projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com","projectId":"todo-app-cp-b3e1d","uniqueId":"111442197596450389895","email":"github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com","displayName":"GitHub Actions (ephyg/React-Todo)","etag":"MDEwMjE5MjA=","description":"A service account with permission to deploy to Firebase Hosting for the GitHub repository ephyg/React-Todo","oauth2ClientId":"111442197596450389895"}
+[debug] [2023-04-27T08:56:48.481Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:getIamPolicy 200
+[debug] [2023-04-27T08:56:48.482Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:getIamPolicy {"version":1,"etag":"BwX6TXnbJtA=","bindings":[{"role":"roles/firebase.managementServiceAgent","members":["serviceAccount:firebase-service-account@firebase-sa-management.iam.gserviceaccount.com","serviceAccount:service-52676973475@gcp-sa-firebase.iam.gserviceaccount.com"]},{"role":"roles/firebase.sdkAdminServiceAgent","members":["serviceAccount:firebase-adminsdk-56jvi@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/firebaseauth.admin","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/firebasehosting.admin","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/firebaserules.system","members":["serviceAccount:service-52676973475@firebase-rules.iam.gserviceaccount.com"]},{"role":"roles/firestore.serviceAgent","members":["serviceAccount:service-52676973475@gcp-sa-firestore.iam.gserviceaccount.com"]},{"role":"roles/iam.serviceAccountTokenCreator","members":["serviceAccount:firebase-adminsdk-56jvi@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/owner","members":["user:ephywaanofii@gmail.com"]},{"role":"roles/pubsub.serviceAgent","members":["serviceAccount:service-52676973475@gcp-sa-pubsub.iam.gserviceaccount.com"]},{"role":"roles/run.viewer","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/serviceusage.apiKeysViewer","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]}]}
+[debug] [2023-04-27T08:56:48.484Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:setIamPolicy [none]
+[debug] [2023-04-27T08:56:48.485Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:setIamPolicy {"policy":{"version":1,"etag":"BwX6TXnbJtA=","bindings":[{"role":"roles/firebase.managementServiceAgent","members":["serviceAccount:firebase-service-account@firebase-sa-management.iam.gserviceaccount.com","serviceAccount:service-52676973475@gcp-sa-firebase.iam.gserviceaccount.com"]},{"role":"roles/firebase.sdkAdminServiceAgent","members":["serviceAccount:firebase-adminsdk-56jvi@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/firebaseauth.admin","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/firebasehosting.admin","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/firebaserules.system","members":["serviceAccount:service-52676973475@firebase-rules.iam.gserviceaccount.com"]},{"role":"roles/firestore.serviceAgent","members":["serviceAccount:service-52676973475@gcp-sa-firestore.iam.gserviceaccount.com"]},{"role":"roles/iam.serviceAccountTokenCreator","members":["serviceAccount:firebase-adminsdk-56jvi@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/owner","members":["user:ephywaanofii@gmail.com"]},{"role":"roles/pubsub.serviceAgent","members":["serviceAccount:service-52676973475@gcp-sa-pubsub.iam.gserviceaccount.com"]},{"role":"roles/run.viewer","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/serviceusage.apiKeysViewer","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]}]},"updateMask":"bindings"}
+[debug] [2023-04-27T08:56:56.975Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:setIamPolicy 200
+[debug] [2023-04-27T08:56:56.976Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:setIamPolicy {"version":1,"etag":"BwX6TYl3WaI=","bindings":[{"role":"roles/firebase.managementServiceAgent","members":["serviceAccount:firebase-service-account@firebase-sa-management.iam.gserviceaccount.com","serviceAccount:service-52676973475@gcp-sa-firebase.iam.gserviceaccount.com"]},{"role":"roles/firebase.sdkAdminServiceAgent","members":["serviceAccount:firebase-adminsdk-56jvi@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/firebaseauth.admin","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/firebasehosting.admin","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/firebaserules.system","members":["serviceAccount:service-52676973475@firebase-rules.iam.gserviceaccount.com"]},{"role":"roles/firestore.serviceAgent","members":["serviceAccount:service-52676973475@gcp-sa-firestore.iam.gserviceaccount.com"]},{"role":"roles/iam.serviceAccountTokenCreator","members":["serviceAccount:firebase-adminsdk-56jvi@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/owner","members":["user:ephywaanofii@gmail.com"]},{"role":"roles/pubsub.serviceAgent","members":["serviceAccount:service-52676973475@gcp-sa-pubsub.iam.gserviceaccount.com"]},{"role":"roles/run.viewer","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]},{"role":"roles/serviceusage.apiKeysViewer","members":["serviceAccount:github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com"]}]}
+[debug] [2023-04-27T08:56:56.976Z] >>> [apiv2][query] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com/keys [none]
+[debug] [2023-04-27T08:56:56.976Z] >>> [apiv2][body] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com/keys {"keyAlgorithm":"KEY_ALG_UNSPECIFIED","privateKeyType":"TYPE_GOOGLE_CREDENTIALS_FILE"}
+[debug] [2023-04-27T08:57:04.759Z] <<< [apiv2][status] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com/keys 200
+[debug] [2023-04-27T08:57:04.760Z] <<< [apiv2][body] POST https://iam.googleapis.com/v1/projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com/keys {"name":"projects/todo-app-cp-b3e1d/serviceAccounts/github-action-633322493@todo-app-cp-b3e1d.iam.gserviceaccount.com/keys/b0c8661c44bf3da1b8bf93cd722d93e70521e8bc","privateKeyType":"TYPE_GOOGLE_CREDENTIALS_FILE","privateKeyData":"ewogICJ0eXBlIjogInNlcnZpY2VfYWNjb3VudCIsCiAgInByb2plY3RfaWQiOiAidG9kby1hcHAtY3AtYjNlMWQiLAogICJwcml2YXRlX2tleV9pZCI6ICJiMGM4NjYxYzQ0YmYzZGExYjhiZjkzY2Q3MjJkOTNlNzA1MjFlOGJjIiwKICAicHJpdmF0ZV9rZXkiOiAiLS0tLS1CRUdJTiBQUklWQVRFIEtFWS0tLS0tXG5NSUlFdkFJQkFEQU5CZ2txaGtpRzl3MEJBUUVGQUFTQ0JLWXdnZ1NpQWdFQUFvSUJBUUNTZUFJcFRqMys4dUdmXG40cWorS092TlF4MHZRRkJuQjViVlpzTkVsV1BOdVVTZ0ZPU2xDTmRZcit3VDBncXpYa2RSRnVIeXlyK0Fydk9YXG5WTnJKZGdQQ3ZPVWRPbGJRclczZ25WRWFTZzNramNwSzBnVENzNGZVWFkvK0VaT2ZMeUc1N21MazB0Q0lUWWNnXG5IVUl0bUdrcFNJK3RZejNJNk1abjFTaEQ4RkU2YzZRL1dibUh3NVRwVnJFK3FiRmo4U3hyMmZ4OHAwUXVObnNPXG5kRWhxN255S1dlSHBDK0tlOFBIaUNtSDRTNzJKUE5hd0dzTXVSZ2NQSWRUZzUzZGVQVmFHMEV3dW9iNFc3SDliXG5JMEVobENaakpEbVNYaU9aYTFoQS9ucDEwMWZiaXUwc1NQdXRieDlObTllZi85ZlZwdmRoeVJDaEViTjBvWkRqXG5CWjloNzl0cEFnTUJBQUVDZ2dFQUZiNzM3SU8wMmFtRzRuTHlZelhXZUtCbEcxMnNSNkppcHhGb1NXejMvSlJzXG5BaFp5c2Z3RGprNTVqdmNlNXBoSFNnZExORk1jMFVhOXNoNERrNzM2cGZXSisyZkNKRWtJMDJkQ29pbHFNYUQwXG5SQWZnSHJ1Q25hbVIxaklXM1o5UG5iMkNkUFhGeHptTTBvYjFpelBNaCtMQmpqSjUrd2tiRFZITTloL3p6TDU0XG5FcU01Z2xMMnN3UWtBUmt1aHdicVZrcEdLTHlOcVNGbi8rbnQ5bjFzdWFLK3JabFM3KzJ6aDdSOXdEUXg2WjFaXG5tbFhlVGFRVitHTncxa1BCMFAyTlRUZW1EaXNyUFZJTmVzNE0zWUZyeEF2WnlaVjZ2UlJiVGdHS0h6ODluKzNNXG5keDZYQ0hXZ0huaE5pZUswSkVWOTdxbVNMd29tM21CWkxrNUlkTGZ1UHdLQmdRREpSMnV1YTh4VXNCWGI5bTdtXG44WVNWbGFlcG94RGJRUWxudzltZXdNK28xKzlEbVVqOVREWE11REliZXA0YUJQTm9CZzZ1RDBuMjV3RVhWNlFXXG5mVWhqSURNV1R6TXd5alltUG1tSlVLcFluVDJuclMxREQ4VitpT1N6aXJ6RGl4MXhLWCt6S1FxQmp5OFRDa3F5XG5YTzFkQjBVTXNlUWtPVVV5RmVrNzBVVHB3d0tCZ1FDNlNlcTd0cDdscWxlSW56TjByeXZCbjlpYWpaRjBBY01IXG5ubkp0NlpRYlI4Q2ZKempYbmltUGJXWStzWlNXcjloRWZrcEhxR1FpTE9OUVhMTlNGeVpsb2FlbkZ0YkxWOWVzXG54TFJ0L1NyM1l5L25pU3RYOFptcTZick50MTNTUFNoY3ZDTmxLSm92Zm5SUFUwT25SSlJndDdXeWF6aHZ5bS94XG5ncFduUFJSbll3S0JnRmhmNG5pLzNnUmxHQVB2VEx4YjJOSHcxcC9WK0NXOGhZdW80MWtmNFUyS0dnUzlQZDN4XG5ZMEhTc2pWOGZnU0FuZnJUaGdpSXIvb1hiVlE1WjlOMENKOTFXTmozeDBzcHplSzJ6cEc2K0VCV01lYjRVNEk1XG5YNFp5UnJCS1B4MUFiSm51RmFLdFoyNkJWckx1ZHVPZmg1eXIvM1pXZVF3cWxTWXJscTlyNyswUEFvR0FOdE42XG5XalN0SHpxNitHS2lhajBEeThDWHB5VHpJZ2xDdFFOVStqUThlcXJyYmV2Rk52QTlteEMvZnNRVXp5U0JxZWJoXG5SYVd4a3IxVFNWdC9DekgxQXdSSXEweDFldk1uYnBtVjRLa1o5Q1VrL0NmS3NkOVJNcFFIZm5QeEVPY2U4ZXdOXG5Ic0NNWUYzL0xUbDhOOFpmUlBmTWFlNVVkZEpHai9XMnhibWNQN0VDZ1lBcU8yVFhZTlVLcWZyWkE1V3B0WjZLXG5veGlkM0pSbWhWYU0wR1FQRCtWbE9LbzhjNDFGLytLeUNyaHQ3OEVXZVp1czBndXB6SlJaRDhRcHlsaHN3SFcrXG5mSDRWWS81T283ZXIwcEg4ZmthOTBTK2Rnc2hqc3l3QXpNR0Ywa2xYa2pPazJPQWJnZGxVY3N4a3lUbm0zY1BKXG5kaVRQUDFLemE1WmJSNjJpY3hrWWJnPT1cbi0tLS0tRU5EIFBSSVZBVEUgS0VZLS0tLS1cbiIsCiAgImNsaWVudF9lbWFpbCI6ICJnaXRodWItYWN0aW9uLTYzMzMyMjQ5M0B0b2RvLWFwcC1jcC1iM2UxZC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsCiAgImNsaWVudF9pZCI6ICIxMTE0NDIxOTc1OTY0NTAzODk4OTUiLAogICJhdXRoX3VyaSI6ICJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20vby9vYXV0aDIvYXV0aCIsCiAgInRva2VuX3VyaSI6ICJodHRwczovL29hdXRoMi5nb29nbGVhcGlzLmNvbS90b2tlbiIsCiAgImF1dGhfcHJvdmlkZXJfeDUwOV9jZXJ0X3VybCI6ICJodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9vYXV0aDIvdjEvY2VydHMiLAogICJjbGllbnRfeDUwOV9jZXJ0X3VybCI6ICJodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9yb2JvdC92MS9tZXRhZGF0YS94NTA5L2dpdGh1Yi1hY3Rpb24tNjMzMzIyNDkzJTQwdG9kby1hcHAtY3AtYjNlMWQuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20iCn0K","validAfterTime":"2023-04-27T08:56:56Z","validBeforeTime":"9999-12-31T23:59:59Z","keyAlgorithm":"KEY_ALG_RSA_2048","keyOrigin":"GOOGLE_PROVIDED","keyType":"USER_MANAGED"}
+[info] 
+[info] ✔  Created service account github-action-633322493 with Firebase Hosting admin permissions. 
+[debug] [2023-04-27T08:57:04.773Z] >>> [apiv2][query] PUT https://api.github.com/repos/ephyg/React-Todo/actions/secrets/FIREBASE_SERVICE_ACCOUNT_TODO_APP_CP_B3E1D [none]
+[debug] [2023-04-27T08:57:04.774Z] >>> [apiv2][body] PUT https://api.github.com/repos/ephyg/React-Todo/actions/secrets/FIREBASE_SERVICE_ACCOUNT_TODO_APP_CP_B3E1D {"encrypted_value":"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","key_id":"568250167242549743"}
+[debug] [2023-04-27T08:57:12.234Z] <<< [apiv2][status] PUT https://api.github.com/repos/ephyg/React-Todo/actions/secrets/FIREBASE_SERVICE_ACCOUNT_TODO_APP_CP_B3E1D 204
+[debug] [2023-04-27T08:57:12.234Z] <<< [apiv2][body] PUT https://api.github.com/repos/ephyg/React-Todo/actions/secrets/FIREBASE_SERVICE_ACCOUNT_TODO_APP_CP_B3E1D undefined
+[info] ✔  Uploaded service account JSON to GitHub as secret FIREBASE_SERVICE_ACCOUNT_TODO_APP_CP_B3E1D. 
+[info] i  You can manage your secrets at https://github.com/ephyg/React-Todo/settings/secrets. 
+[info] 
+[info] 
+[info] ✔  Created workflow file /home/ephrem/Desktop/Programs/Project And Programs/Web/React/ReactCrud/todo_app/.github/workflows/firebase-hosting-pull-request.yml 
+[info] 
+[info] ✔  Created workflow file /home/ephrem/Desktop/Programs/Project And Programs/Web/React/ReactCrud/todo_app/.github/workflows/firebase-hosting-merge.yml 
+[info] 
+[info] i  Action required: Visit this URL to revoke authorization for the Firebase CLI GitHub OAuth App: 
+[info] https://github.com/settings/connections/applications/89cf50f02ac6aaed3484
+[info] i  Action required: Push any new workflow file(s) to your repo 
+[info] 
+[info] i  Writing configuration info to firebase.json... 
+[info] i  Writing project information to .firebaserc... 
+[info] 
+[info] ✔  Firebase initialization complete! 
+[debug] [2023-04-27T08:57:58.282Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-04-27T09:00:15.327Z] ----------------------------------------------------------------------
+[debug] [2023-04-27T09:00:15.329Z] Command:       /home/ephrem/.nvm/versions/node/v16.20.0/bin/node /usr/local/bin/firebase deploy
+[debug] [2023-04-27T09:00:15.329Z] CLI Version:   11.29.0
+[debug] [2023-04-27T09:00:15.330Z] Platform:      linux
+[debug] [2023-04-27T09:00:15.330Z] Node Version:  v16.20.0
+[debug] [2023-04-27T09:00:15.330Z] Time:          Thu Apr 27 2023 05:00:15 GMT-0400 (Eastern Daylight Time)
+[debug] [2023-04-27T09:00:15.330Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-27T09:00:15.403Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-27T09:00:15.403Z] > authorizing via signed-in user (ephywaanofii@gmail.com)
+[debug] [2023-04-27T09:00:15.403Z] [iam] checking project todo-app-cp-b3e1d for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2023-04-27T09:00:15.405Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:testIamPermissions [none]
+[debug] [2023-04-27T09:00:15.406Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:testIamPermissions x-goog-quota-user=projects/todo-app-cp-b3e1d
+[debug] [2023-04-27T09:00:15.406Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2023-04-27T09:00:22.962Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:testIamPermissions 200
+[debug] [2023-04-27T09:00:22.963Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2023-04-27T09:00:22.966Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/todo-app-cp-b3e1d [none]
+[debug] [2023-04-27T09:00:30.134Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/todo-app-cp-b3e1d 200
+[debug] [2023-04-27T09:00:30.134Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/todo-app-cp-b3e1d {"projectId":"todo-app-cp-b3e1d","projectNumber":"52676973475","displayName":"todo-app-cp","name":"projects/todo-app-cp-b3e1d","resources":{"hostingSite":"todo-app-cp-b3e1d"},"state":"ACTIVE","etag":"1_b3634369-5a5c-4b4b-a0b3-7ff42869c60b"}
+[info] 
+[info] === Deploying to 'todo-app-cp-b3e1d'...
+[info] 
+[info] i  deploying hosting 
+[debug] [2023-04-27T09:00:30.142Z] >>> [apiv2][query] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions [none]
+[debug] [2023-04-27T09:00:30.142Z] >>> [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions {"status":"CREATED","labels":{"deployment-tool":"cli-firebase"}}
+[debug] [2023-04-27T09:00:38.814Z] <<< [apiv2][status] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions 200
+[debug] [2023-04-27T09:00:38.814Z] <<< [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions {"name":"projects/52676973475/sites/todo-app-cp-b3e1d/versions/66f35def8945b220","status":"CREATED","config":{},"labels":{"deployment-tool":"cli-firebase"}}
+[info] i  hosting[todo-app-cp-b3e1d]: beginning deploy... 
+[info] i  hosting[todo-app-cp-b3e1d]: found 17 files in build 
+[debug] [2023-04-27T09:00:38.847Z] [hosting] uploading with 200 concurrency
+[debug] [2023-04-27T09:00:38.850Z] [hosting] hash cache [YnVpbGQ] not populated
+[debug] [2023-04-27T09:00:39.891Z] [hosting] hash cache [YnVpbGQ] stored for 17 files
+[debug] [2023-04-27T09:00:39.891Z] [hosting][hash queue][FINAL] {"max":1026,"min":14,"avg":81.58823529411765,"active":0,"complete":17,"success":17,"errored":0,"retried":0,"total":17,"elapsed":1036}
+[debug] [2023-04-27T09:00:39.892Z] >>> [apiv2][query] POST https://firebasehosting.googleapis.com/v1beta1/projects/52676973475/sites/todo-app-cp-b3e1d/versions/66f35def8945b220:populateFiles [none]
+[debug] [2023-04-27T09:00:39.892Z] >>> [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/52676973475/sites/todo-app-cp-b3e1d/versions/66f35def8945b220:populateFiles {"files":{"/asset-manifest.json":"b8b5f65fa75ccbb98aa473f5db30f68b3740b790d3963993b87411dd81dd8a26","/index.html":"cb293e1dcd8962cfe0bda2b23ec5bf6cce69a672474e98fc15697f80e22d6679","/manifest.json":"0958a5e0c831126100c8c2d06a6bbaa665a3900f21aaff4130238a6f5a113aa1","/precache-manifest.5cbd8b0c27eb5cd6475f297938d1483f.js":"b78eaf2a69a6f0fce27ef397fb5b556d55662ccf7f14ccdef944231024546234","/robots.txt":"2544ca049f223a42bff01f72ad930a5edba75bbb7199d0f8430a02ff5aca16ec","/service-worker.js":"73df61c43109f5d6a2985378039cb984d45e9cd5cae37f4af38d01f5665deeae","/static/css/main.8c1831a7.chunk.css":"d50dda388a95ab67abeb97d07fdb89fd58040a1be837ecc2c7e9e0b9bd35674c","/static/css/main.8c1831a7.chunk.css.map":"7f27a17833d676c599ae7eb987e00a11a594f62a53cc63e2965abf2109fa6cef","/static/js/main.389ef481.chunk.js":"a54c2c7312f9ee35619c0340136c8e311693497255b818cedbcc8f19dca62b71","/static/js/runtime~main.a8a9905a.js":"5b0313db8c475761662a933e703f2a6bd16847cdfc34b81915f5dd56862e4e77","/static/js/main.389ef481.chunk.js.map":"87e18f067bc8ee001fbf053ae731213c014f1b0cd46a470e510bc50818d56b24","/favicon.ico":"c599b7a91ab3627e3538125d9f40adc2d4bf949046984262670545dc7738af06","/logo512.png":"7779210d56c1f3741e2e487799fe3092def4fa6ac450a60532b807c3a8971205","/static/js/runtime~main.a8a9905a.js.map":"2510643041ce395196dfc3f9ae31cd72d7127dbd8457479959c6e22dd1b1eaeb","/logo192.png":"76c449ccb9cd117c2f2338f091b18f7050f3210e249b2228f5c81b23f34377cd","/static/js/2.b9f85cdf.chunk.js":"fc0f558bfae84b6574c567d1bc5996054349a4c63ece58878f8a327973dc8241","/static/js/2.b9f85cdf.chunk.js.map":"3e73097105d95fad781e6824ff358ba8d6935b602e4c74606117cce37456eed0"}}
+[debug] [2023-04-27T09:00:47.649Z] <<< [apiv2][status] POST https://firebasehosting.googleapis.com/v1beta1/projects/52676973475/sites/todo-app-cp-b3e1d/versions/66f35def8945b220:populateFiles 200
+[debug] [2023-04-27T09:00:47.650Z] <<< [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/52676973475/sites/todo-app-cp-b3e1d/versions/66f35def8945b220:populateFiles {"uploadRequiredHashes":["c599b7a91ab3627e3538125d9f40adc2d4bf949046984262670545dc7738af06","87e18f067bc8ee001fbf053ae731213c014f1b0cd46a470e510bc50818d56b24","d50dda388a95ab67abeb97d07fdb89fd58040a1be837ecc2c7e9e0b9bd35674c","fc0f558bfae84b6574c567d1bc5996054349a4c63ece58878f8a327973dc8241","cb293e1dcd8962cfe0bda2b23ec5bf6cce69a672474e98fc15697f80e22d6679","a54c2c7312f9ee35619c0340136c8e311693497255b818cedbcc8f19dca62b71","7779210d56c1f3741e2e487799fe3092def4fa6ac450a60532b807c3a8971205","76c449ccb9cd117c2f2338f091b18f7050f3210e249b2228f5c81b23f34377cd","5b0313db8c475761662a933e703f2a6bd16847cdfc34b81915f5dd56862e4e77","2510643041ce395196dfc3f9ae31cd72d7127dbd8457479959c6e22dd1b1eaeb","2544ca049f223a42bff01f72ad930a5edba75bbb7199d0f8430a02ff5aca16ec","7f27a17833d676c599ae7eb987e00a11a594f62a53cc63e2965abf2109fa6cef","0958a5e0c831126100c8c2d06a6bbaa665a3900f21aaff4130238a6f5a113aa1","3e73097105d95fad781e6824ff358ba8d6935b602e4c74606117cce37456eed0","b78eaf2a69a6f0fce27ef397fb5b556d55662ccf7f14ccdef944231024546234","73df61c43109f5d6a2985378039cb984d45e9cd5cae37f4af38d01f5665deeae","b8b5f65fa75ccbb98aa473f5db30f68b3740b790d3963993b87411dd81dd8a26"],"uploadUrl":"https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files"}
+[debug] [2023-04-27T09:00:47.663Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/c599b7a91ab3627e3538125d9f40adc2d4bf949046984262670545dc7738af06 [none]
+[debug] [2023-04-27T09:00:47.664Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/c599b7a91ab3627e3538125d9f40adc2d4bf949046984262670545dc7738af06 [stream]
+[debug] [2023-04-27T09:00:47.668Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/87e18f067bc8ee001fbf053ae731213c014f1b0cd46a470e510bc50818d56b24 [none]
+[debug] [2023-04-27T09:00:47.669Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/87e18f067bc8ee001fbf053ae731213c014f1b0cd46a470e510bc50818d56b24 [stream]
+[debug] [2023-04-27T09:00:47.672Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/d50dda388a95ab67abeb97d07fdb89fd58040a1be837ecc2c7e9e0b9bd35674c [none]
+[debug] [2023-04-27T09:00:47.672Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/d50dda388a95ab67abeb97d07fdb89fd58040a1be837ecc2c7e9e0b9bd35674c [stream]
+[debug] [2023-04-27T09:00:47.676Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/fc0f558bfae84b6574c567d1bc5996054349a4c63ece58878f8a327973dc8241 [none]
+[debug] [2023-04-27T09:00:47.676Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/fc0f558bfae84b6574c567d1bc5996054349a4c63ece58878f8a327973dc8241 [stream]
+[debug] [2023-04-27T09:00:47.680Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/cb293e1dcd8962cfe0bda2b23ec5bf6cce69a672474e98fc15697f80e22d6679 [none]
+[debug] [2023-04-27T09:00:47.680Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/cb293e1dcd8962cfe0bda2b23ec5bf6cce69a672474e98fc15697f80e22d6679 [stream]
+[debug] [2023-04-27T09:00:47.684Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/a54c2c7312f9ee35619c0340136c8e311693497255b818cedbcc8f19dca62b71 [none]
+[debug] [2023-04-27T09:00:47.684Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/a54c2c7312f9ee35619c0340136c8e311693497255b818cedbcc8f19dca62b71 [stream]
+[debug] [2023-04-27T09:00:47.690Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/7779210d56c1f3741e2e487799fe3092def4fa6ac450a60532b807c3a8971205 [none]
+[debug] [2023-04-27T09:00:47.690Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/7779210d56c1f3741e2e487799fe3092def4fa6ac450a60532b807c3a8971205 [stream]
+[debug] [2023-04-27T09:00:47.693Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/76c449ccb9cd117c2f2338f091b18f7050f3210e249b2228f5c81b23f34377cd [none]
+[debug] [2023-04-27T09:00:47.693Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/76c449ccb9cd117c2f2338f091b18f7050f3210e249b2228f5c81b23f34377cd [stream]
+[debug] [2023-04-27T09:00:47.696Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/5b0313db8c475761662a933e703f2a6bd16847cdfc34b81915f5dd56862e4e77 [none]
+[debug] [2023-04-27T09:00:47.696Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/5b0313db8c475761662a933e703f2a6bd16847cdfc34b81915f5dd56862e4e77 [stream]
+[debug] [2023-04-27T09:00:47.698Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/2510643041ce395196dfc3f9ae31cd72d7127dbd8457479959c6e22dd1b1eaeb [none]
+[debug] [2023-04-27T09:00:47.698Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/2510643041ce395196dfc3f9ae31cd72d7127dbd8457479959c6e22dd1b1eaeb [stream]
+[debug] [2023-04-27T09:00:47.699Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/2544ca049f223a42bff01f72ad930a5edba75bbb7199d0f8430a02ff5aca16ec [none]
+[debug] [2023-04-27T09:00:47.699Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/2544ca049f223a42bff01f72ad930a5edba75bbb7199d0f8430a02ff5aca16ec [stream]
+[debug] [2023-04-27T09:00:47.701Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/7f27a17833d676c599ae7eb987e00a11a594f62a53cc63e2965abf2109fa6cef [none]
+[debug] [2023-04-27T09:00:47.701Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/7f27a17833d676c599ae7eb987e00a11a594f62a53cc63e2965abf2109fa6cef [stream]
+[debug] [2023-04-27T09:00:47.702Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/0958a5e0c831126100c8c2d06a6bbaa665a3900f21aaff4130238a6f5a113aa1 [none]
+[debug] [2023-04-27T09:00:47.702Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/0958a5e0c831126100c8c2d06a6bbaa665a3900f21aaff4130238a6f5a113aa1 [stream]
+[debug] [2023-04-27T09:00:47.704Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/3e73097105d95fad781e6824ff358ba8d6935b602e4c74606117cce37456eed0 [none]
+[debug] [2023-04-27T09:00:47.704Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/3e73097105d95fad781e6824ff358ba8d6935b602e4c74606117cce37456eed0 [stream]
+[debug] [2023-04-27T09:00:47.708Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b78eaf2a69a6f0fce27ef397fb5b556d55662ccf7f14ccdef944231024546234 [none]
+[debug] [2023-04-27T09:00:47.708Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b78eaf2a69a6f0fce27ef397fb5b556d55662ccf7f14ccdef944231024546234 [stream]
+[debug] [2023-04-27T09:00:47.710Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/73df61c43109f5d6a2985378039cb984d45e9cd5cae37f4af38d01f5665deeae [none]
+[debug] [2023-04-27T09:00:47.710Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/73df61c43109f5d6a2985378039cb984d45e9cd5cae37f4af38d01f5665deeae [stream]
+[debug] [2023-04-27T09:00:47.711Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b8b5f65fa75ccbb98aa473f5db30f68b3740b790d3963993b87411dd81dd8a26 [none]
+[debug] [2023-04-27T09:00:47.711Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b8b5f65fa75ccbb98aa473f5db30f68b3740b790d3963993b87411dd81dd8a26 [stream]
+[debug] [2023-04-27T09:00:47.712Z] [hosting][populate queue][FINAL] {"max":7774,"min":7774,"avg":7774,"active":0,"complete":1,"success":1,"errored":0,"retried":0,"total":1,"elapsed":7824}
+[debug] [2023-04-27T09:00:47.712Z] [hosting] uploads queued: 17
+[debug] [2023-04-27T09:00:55.494Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/c599b7a91ab3627e3538125d9f40adc2d4bf949046984262670545dc7738af06 200
+[debug] [2023-04-27T09:00:55.495Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/c599b7a91ab3627e3538125d9f40adc2d4bf949046984262670545dc7738af06 [stream]
+[debug] [2023-04-27T09:00:55.717Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/87e18f067bc8ee001fbf053ae731213c014f1b0cd46a470e510bc50818d56b24 200
+[debug] [2023-04-27T09:00:55.718Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/87e18f067bc8ee001fbf053ae731213c014f1b0cd46a470e510bc50818d56b24 [stream]
+[debug] [2023-04-27T09:01:02.563Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/fc0f558bfae84b6574c567d1bc5996054349a4c63ece58878f8a327973dc8241 200
+[debug] [2023-04-27T09:01:02.564Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/fc0f558bfae84b6574c567d1bc5996054349a4c63ece58878f8a327973dc8241 [stream]
+[debug] [2023-04-27T09:01:02.860Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/d50dda388a95ab67abeb97d07fdb89fd58040a1be837ecc2c7e9e0b9bd35674c 200
+[debug] [2023-04-27T09:01:02.860Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/d50dda388a95ab67abeb97d07fdb89fd58040a1be837ecc2c7e9e0b9bd35674c [stream]
+[debug] [2023-04-27T09:01:06.498Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/cb293e1dcd8962cfe0bda2b23ec5bf6cce69a672474e98fc15697f80e22d6679 200
+[debug] [2023-04-27T09:01:06.498Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/cb293e1dcd8962cfe0bda2b23ec5bf6cce69a672474e98fc15697f80e22d6679 [stream]
+[debug] [2023-04-27T09:01:07.035Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/a54c2c7312f9ee35619c0340136c8e311693497255b818cedbcc8f19dca62b71 200
+[debug] [2023-04-27T09:01:07.036Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/a54c2c7312f9ee35619c0340136c8e311693497255b818cedbcc8f19dca62b71 [stream]
+[debug] [2023-04-27T09:01:11.850Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/76c449ccb9cd117c2f2338f091b18f7050f3210e249b2228f5c81b23f34377cd 200
+[debug] [2023-04-27T09:01:11.851Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/76c449ccb9cd117c2f2338f091b18f7050f3210e249b2228f5c81b23f34377cd [stream]
+[debug] [2023-04-27T09:01:12.360Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/7779210d56c1f3741e2e487799fe3092def4fa6ac450a60532b807c3a8971205 200
+[debug] [2023-04-27T09:01:12.360Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/7779210d56c1f3741e2e487799fe3092def4fa6ac450a60532b807c3a8971205 [stream]
+[debug] [2023-04-27T09:01:17.390Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/2510643041ce395196dfc3f9ae31cd72d7127dbd8457479959c6e22dd1b1eaeb 200
+[debug] [2023-04-27T09:01:17.390Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/2510643041ce395196dfc3f9ae31cd72d7127dbd8457479959c6e22dd1b1eaeb [stream]
+[debug] [2023-04-27T09:01:17.392Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/5b0313db8c475761662a933e703f2a6bd16847cdfc34b81915f5dd56862e4e77 200
+[debug] [2023-04-27T09:01:17.392Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/5b0313db8c475761662a933e703f2a6bd16847cdfc34b81915f5dd56862e4e77 [stream]
+[debug] [2023-04-27T09:01:18.061Z] [uploadQueue] Retrying task 2544ca049f223a42bff01f72ad930a5edba75bbb7199d0f8430a02ff5aca16ec
+[debug] [2023-04-27T09:01:18.062Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/2544ca049f223a42bff01f72ad930a5edba75bbb7199d0f8430a02ff5aca16ec [none]
+[debug] [2023-04-27T09:01:18.062Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/2544ca049f223a42bff01f72ad930a5edba75bbb7199d0f8430a02ff5aca16ec [stream]
+[debug] [2023-04-27T09:01:18.066Z] [uploadQueue] Retrying task 7f27a17833d676c599ae7eb987e00a11a594f62a53cc63e2965abf2109fa6cef
+[debug] [2023-04-27T09:01:18.066Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/7f27a17833d676c599ae7eb987e00a11a594f62a53cc63e2965abf2109fa6cef [none]
+[debug] [2023-04-27T09:01:18.066Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/7f27a17833d676c599ae7eb987e00a11a594f62a53cc63e2965abf2109fa6cef [stream]
+[debug] [2023-04-27T09:01:18.067Z] [uploadQueue] Retrying task 0958a5e0c831126100c8c2d06a6bbaa665a3900f21aaff4130238a6f5a113aa1
+[debug] [2023-04-27T09:01:18.067Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/0958a5e0c831126100c8c2d06a6bbaa665a3900f21aaff4130238a6f5a113aa1 [none]
+[debug] [2023-04-27T09:01:18.067Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/0958a5e0c831126100c8c2d06a6bbaa665a3900f21aaff4130238a6f5a113aa1 [stream]
+[debug] [2023-04-27T09:01:18.068Z] [uploadQueue] Retrying task b78eaf2a69a6f0fce27ef397fb5b556d55662ccf7f14ccdef944231024546234
+[debug] [2023-04-27T09:01:18.069Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b78eaf2a69a6f0fce27ef397fb5b556d55662ccf7f14ccdef944231024546234 [none]
+[debug] [2023-04-27T09:01:18.069Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b78eaf2a69a6f0fce27ef397fb5b556d55662ccf7f14ccdef944231024546234 [stream]
+[debug] [2023-04-27T09:01:18.070Z] [uploadQueue] Retrying task 73df61c43109f5d6a2985378039cb984d45e9cd5cae37f4af38d01f5665deeae
+[debug] [2023-04-27T09:01:18.070Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/73df61c43109f5d6a2985378039cb984d45e9cd5cae37f4af38d01f5665deeae [none]
+[debug] [2023-04-27T09:01:18.070Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/73df61c43109f5d6a2985378039cb984d45e9cd5cae37f4af38d01f5665deeae [stream]
+[debug] [2023-04-27T09:01:18.071Z] [uploadQueue] Retrying task b8b5f65fa75ccbb98aa473f5db30f68b3740b790d3963993b87411dd81dd8a26
+[debug] [2023-04-27T09:01:18.071Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b8b5f65fa75ccbb98aa473f5db30f68b3740b790d3963993b87411dd81dd8a26 [none]
+[debug] [2023-04-27T09:01:18.071Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b8b5f65fa75ccbb98aa473f5db30f68b3740b790d3963993b87411dd81dd8a26 [stream]
+[debug] [2023-04-27T09:01:29.954Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/3e73097105d95fad781e6824ff358ba8d6935b602e4c74606117cce37456eed0 200
+[debug] [2023-04-27T09:01:29.955Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/3e73097105d95fad781e6824ff358ba8d6935b602e4c74606117cce37456eed0 [stream]
+[debug] [2023-04-27T09:01:39.297Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/2544ca049f223a42bff01f72ad930a5edba75bbb7199d0f8430a02ff5aca16ec 200
+[debug] [2023-04-27T09:01:39.297Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/2544ca049f223a42bff01f72ad930a5edba75bbb7199d0f8430a02ff5aca16ec [stream]
+[debug] [2023-04-27T09:01:44.605Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/0958a5e0c831126100c8c2d06a6bbaa665a3900f21aaff4130238a6f5a113aa1 200
+[debug] [2023-04-27T09:01:44.605Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/0958a5e0c831126100c8c2d06a6bbaa665a3900f21aaff4130238a6f5a113aa1 [stream]
+[debug] [2023-04-27T09:01:44.768Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/7f27a17833d676c599ae7eb987e00a11a594f62a53cc63e2965abf2109fa6cef 200
+[debug] [2023-04-27T09:01:44.768Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/7f27a17833d676c599ae7eb987e00a11a594f62a53cc63e2965abf2109fa6cef [stream]
+[debug] [2023-04-27T09:01:48.870Z] [uploadQueue] Retrying task b78eaf2a69a6f0fce27ef397fb5b556d55662ccf7f14ccdef944231024546234
+[debug] [2023-04-27T09:01:48.873Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b78eaf2a69a6f0fce27ef397fb5b556d55662ccf7f14ccdef944231024546234 [none]
+[debug] [2023-04-27T09:01:48.873Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b78eaf2a69a6f0fce27ef397fb5b556d55662ccf7f14ccdef944231024546234 [stream]
+[debug] [2023-04-27T09:01:48.877Z] [uploadQueue] Retrying task 73df61c43109f5d6a2985378039cb984d45e9cd5cae37f4af38d01f5665deeae
+[debug] [2023-04-27T09:01:48.878Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/73df61c43109f5d6a2985378039cb984d45e9cd5cae37f4af38d01f5665deeae [none]
+[debug] [2023-04-27T09:01:48.878Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/73df61c43109f5d6a2985378039cb984d45e9cd5cae37f4af38d01f5665deeae [stream]
+[debug] [2023-04-27T09:01:48.880Z] [uploadQueue] Retrying task b8b5f65fa75ccbb98aa473f5db30f68b3740b790d3963993b87411dd81dd8a26
+[debug] [2023-04-27T09:01:48.881Z] >>> [apiv2][query] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b8b5f65fa75ccbb98aa473f5db30f68b3740b790d3963993b87411dd81dd8a26 [none]
+[debug] [2023-04-27T09:01:48.882Z] >>> [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b8b5f65fa75ccbb98aa473f5db30f68b3740b790d3963993b87411dd81dd8a26 [stream]
+[debug] [2023-04-27T09:01:56.911Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b78eaf2a69a6f0fce27ef397fb5b556d55662ccf7f14ccdef944231024546234 200
+[debug] [2023-04-27T09:01:56.911Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b78eaf2a69a6f0fce27ef397fb5b556d55662ccf7f14ccdef944231024546234 [stream]
+[debug] [2023-04-27T09:02:01.117Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/73df61c43109f5d6a2985378039cb984d45e9cd5cae37f4af38d01f5665deeae 200
+[debug] [2023-04-27T09:02:01.117Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/73df61c43109f5d6a2985378039cb984d45e9cd5cae37f4af38d01f5665deeae [stream]
+[debug] [2023-04-27T09:02:02.402Z] <<< [apiv2][status] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b8b5f65fa75ccbb98aa473f5db30f68b3740b790d3963993b87411dd81dd8a26 200
+[debug] [2023-04-27T09:02:02.403Z] <<< [apiv2][body] POST https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/66f35def8945b220/files/b8b5f65fa75ccbb98aa473f5db30f68b3740b790d3963993b87411dd81dd8a26 [stream]
+[debug] [2023-04-27T09:02:02.403Z] [hosting][upload queue][FINAL] {"max":42295,"min":7844,"avg":20187.764705882353,"active":0,"complete":17,"success":17,"errored":0,"retried":9,"total":17,"elapsed":74752}
+[info] ✔  hosting[todo-app-cp-b3e1d]: file upload complete 
+[debug] [2023-04-27T09:02:02.404Z] [hosting] deploy completed after 83585ms
+[debug] [2023-04-27T09:02:02.408Z] [
+  {
+    "config": {
+      "public": "build",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ],
+      "site": "todo-app-cp-b3e1d"
+    },
+    "version": "projects/52676973475/sites/todo-app-cp-b3e1d/versions/66f35def8945b220"
+  }
+]
+[info] i  hosting[todo-app-cp-b3e1d]: finalizing version... 
+[debug] [2023-04-27T09:02:02.412Z] >>> [apiv2][query] PATCH https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions/66f35def8945b220 updateMask=status%2Cconfig
+[debug] [2023-04-27T09:02:02.412Z] >>> [apiv2][body] PATCH https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions/66f35def8945b220 {"status":"FINALIZED","config":{"rewrites":[{"glob":"**","path":"/index.html"}]}}
+[debug] [2023-04-27T09:02:09.947Z] <<< [apiv2][status] PATCH https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions/66f35def8945b220 200
+[debug] [2023-04-27T09:02:09.948Z] <<< [apiv2][body] PATCH https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions/66f35def8945b220 {"name":"projects/52676973475/sites/todo-app-cp-b3e1d/versions/66f35def8945b220","status":"FINALIZED","config":{"rewrites":[{"glob":"**","path":"/index.html"}]},"labels":{"deployment-tool":"cli-firebase"},"createTime":"2023-04-27T09:00:29.968941Z","createUser":{"email":"ephywaanofii@gmail.com"},"finalizeTime":"2023-04-27T09:02:02.232626Z","finalizeUser":{"email":"ephywaanofii@gmail.com"}}
+[debug] [2023-04-27T09:02:09.948Z] [hosting] finalized version for todo-app-cp-b3e1d:[object Object]
+[info] ✔  hosting[todo-app-cp-b3e1d]: version finalized 
+[info] i  hosting[todo-app-cp-b3e1d]: releasing new version... 
+[debug] [2023-04-27T09:02:09.950Z] >>> [apiv2][query] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/channels/live/releases versionName=projects%2F52676973475%2Fsites%2Ftodo-app-cp-b3e1d%2Fversions%2F66f35def8945b220
+[debug] [2023-04-27T09:02:09.950Z] >>> [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/channels/live/releases {}
+[debug] [2023-04-27T09:02:17.497Z] <<< [apiv2][status] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/channels/live/releases 200
+[debug] [2023-04-27T09:02:17.497Z] <<< [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/channels/live/releases {"name":"projects/52676973475/sites/todo-app-cp-b3e1d/channels/live/releases/1682586129035000","version":{"name":"projects/52676973475/sites/todo-app-cp-b3e1d/versions/66f35def8945b220","status":"FINALIZED","config":{"rewrites":[{"glob":"**","path":"/index.html"}]},"labels":{"deployment-tool":"cli-firebase"},"createTime":"2023-04-27T09:00:29.968941Z","createUser":{"email":"ephywaanofii@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AGNmyxZG2oL9pw6MYLkHtCbxPJ90Fi-RceabuyqwHX2w"},"finalizeTime":"2023-04-27T09:02:02.232626Z","finalizeUser":{"email":"ephywaanofii@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AGNmyxZG2oL9pw6MYLkHtCbxPJ90Fi-RceabuyqwHX2w"}},"type":"DEPLOY","releaseTime":"2023-04-27T09:02:09.035Z","releaseUser":{"email":"ephywaanofii@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AGNmyxZG2oL9pw6MYLkHtCbxPJ90Fi-RceabuyqwHX2w"}}
+[debug] [2023-04-27T09:02:17.498Z] [hosting] release: {"name":"projects/52676973475/sites/todo-app-cp-b3e1d/channels/live/releases/1682586129035000","version":{"name":"projects/52676973475/sites/todo-app-cp-b3e1d/versions/66f35def8945b220","status":"FINALIZED","config":{"rewrites":[{"glob":"**","path":"/index.html"}]},"labels":{"deployment-tool":"cli-firebase"},"createTime":"2023-04-27T09:00:29.968941Z","createUser":{"email":"ephywaanofii@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AGNmyxZG2oL9pw6MYLkHtCbxPJ90Fi-RceabuyqwHX2w"},"finalizeTime":"2023-04-27T09:02:02.232626Z","finalizeUser":{"email":"ephywaanofii@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AGNmyxZG2oL9pw6MYLkHtCbxPJ90Fi-RceabuyqwHX2w"}},"type":"DEPLOY","releaseTime":"2023-04-27T09:02:09.035Z","releaseUser":{"email":"ephywaanofii@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AGNmyxZG2oL9pw6MYLkHtCbxPJ90Fi-RceabuyqwHX2w"}}
+[info] ✔  hosting[todo-app-cp-b3e1d]: release complete 
+[info] 
+[info] ✔  Deploy complete! 
+[info] 
+[info] Project Console: https://console.firebase.google.com/project/todo-app-cp-b3e1d/overview
+[info] Hosting URL: https://todo-app-cp-b3e1d.web.app
+[debug] [2023-04-27T09:02:33.971Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-04-27T10:23:00.712Z] ----------------------------------------------------------------------
+[debug] [2023-04-27T10:23:00.713Z] Command:       /home/ephrem/.nvm/versions/node/v16.20.0/bin/node /usr/local/bin/firebase deploy
+[debug] [2023-04-27T10:23:00.714Z] CLI Version:   11.29.0
+[debug] [2023-04-27T10:23:00.714Z] Platform:      linux
+[debug] [2023-04-27T10:23:00.714Z] Node Version:  v16.20.0
+[debug] [2023-04-27T10:23:00.715Z] Time:          Thu Apr 27 2023 06:23:00 GMT-0400 (Eastern Daylight Time)
+[debug] [2023-04-27T10:23:00.715Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-27T10:23:00.785Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-27T10:23:00.785Z] > authorizing via signed-in user (ephywaanofii@gmail.com)
+[debug] [2023-04-27T10:23:00.786Z] [iam] checking project todo-app-cp-b3e1d for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2023-04-27T10:23:00.787Z] > refreshing access token with scopes: []
+[debug] [2023-04-27T10:23:00.789Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2023-04-27T10:23:00.789Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2023-04-27T10:23:07.920Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2023-04-27T10:23:07.920Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2023-04-27T10:23:07.930Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:testIamPermissions [none]
+[debug] [2023-04-27T10:23:07.930Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:testIamPermissions x-goog-quota-user=projects/todo-app-cp-b3e1d
+[debug] [2023-04-27T10:23:07.930Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2023-04-27T10:23:15.283Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:testIamPermissions 200
+[debug] [2023-04-27T10:23:15.284Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/todo-app-cp-b3e1d:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2023-04-27T10:23:15.285Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/todo-app-cp-b3e1d [none]
+[debug] [2023-04-27T10:23:22.660Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/todo-app-cp-b3e1d 200
+[debug] [2023-04-27T10:23:22.661Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/todo-app-cp-b3e1d {"projectId":"todo-app-cp-b3e1d","projectNumber":"52676973475","displayName":"todo-app-cp","name":"projects/todo-app-cp-b3e1d","resources":{"hostingSite":"todo-app-cp-b3e1d"},"state":"ACTIVE","etag":"1_b3634369-5a5c-4b4b-a0b3-7ff42869c60b"}
+[info] 
+[info] === Deploying to 'todo-app-cp-b3e1d'...
+[info] 
+[info] i  deploying hosting 
+[debug] [2023-04-27T10:23:22.682Z] >>> [apiv2][query] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions [none]
+[debug] [2023-04-27T10:23:22.682Z] >>> [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions {"status":"CREATED","labels":{"deployment-tool":"cli-firebase"}}
+[debug] [2023-04-27T10:23:30.521Z] <<< [apiv2][status] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions 200
+[debug] [2023-04-27T10:23:30.521Z] <<< [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions {"name":"projects/52676973475/sites/todo-app-cp-b3e1d/versions/483ffb18374affee","status":"CREATED","config":{},"labels":{"deployment-tool":"cli-firebase"}}
+[info] i  hosting[todo-app-cp-b3e1d]: beginning deploy... 
+[info] i  hosting[todo-app-cp-b3e1d]: found 17 files in build 
+[debug] [2023-04-27T10:23:30.530Z] [hosting] uploading with 200 concurrency
+[debug] [2023-04-27T10:23:30.535Z] [hosting] hash cache [YnVpbGQ] stored for 17 files
+[debug] [2023-04-27T10:23:30.535Z] [hosting][hash queue][FINAL] {"max":1,"min":0,"avg":0,"active":0,"complete":17,"success":17,"errored":0,"retried":0,"total":17,"elapsed":2}
+[debug] [2023-04-27T10:23:30.536Z] >>> [apiv2][query] POST https://firebasehosting.googleapis.com/v1beta1/projects/52676973475/sites/todo-app-cp-b3e1d/versions/483ffb18374affee:populateFiles [none]
+[debug] [2023-04-27T10:23:30.536Z] >>> [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/52676973475/sites/todo-app-cp-b3e1d/versions/483ffb18374affee:populateFiles {"files":{"/asset-manifest.json":"b8b5f65fa75ccbb98aa473f5db30f68b3740b790d3963993b87411dd81dd8a26","/favicon.ico":"c599b7a91ab3627e3538125d9f40adc2d4bf949046984262670545dc7738af06","/index.html":"cb293e1dcd8962cfe0bda2b23ec5bf6cce69a672474e98fc15697f80e22d6679","/logo192.png":"76c449ccb9cd117c2f2338f091b18f7050f3210e249b2228f5c81b23f34377cd","/logo512.png":"7779210d56c1f3741e2e487799fe3092def4fa6ac450a60532b807c3a8971205","/manifest.json":"0958a5e0c831126100c8c2d06a6bbaa665a3900f21aaff4130238a6f5a113aa1","/precache-manifest.5cbd8b0c27eb5cd6475f297938d1483f.js":"b78eaf2a69a6f0fce27ef397fb5b556d55662ccf7f14ccdef944231024546234","/robots.txt":"2544ca049f223a42bff01f72ad930a5edba75bbb7199d0f8430a02ff5aca16ec","/service-worker.js":"73df61c43109f5d6a2985378039cb984d45e9cd5cae37f4af38d01f5665deeae","/static/css/main.8c1831a7.chunk.css":"d50dda388a95ab67abeb97d07fdb89fd58040a1be837ecc2c7e9e0b9bd35674c","/static/css/main.8c1831a7.chunk.css.map":"7f27a17833d676c599ae7eb987e00a11a594f62a53cc63e2965abf2109fa6cef","/static/js/2.b9f85cdf.chunk.js":"fc0f558bfae84b6574c567d1bc5996054349a4c63ece58878f8a327973dc8241","/static/js/2.b9f85cdf.chunk.js.map":"3e73097105d95fad781e6824ff358ba8d6935b602e4c74606117cce37456eed0","/static/js/main.389ef481.chunk.js":"a54c2c7312f9ee35619c0340136c8e311693497255b818cedbcc8f19dca62b71","/static/js/main.389ef481.chunk.js.map":"87e18f067bc8ee001fbf053ae731213c014f1b0cd46a470e510bc50818d56b24","/static/js/runtime~main.a8a9905a.js":"5b0313db8c475761662a933e703f2a6bd16847cdfc34b81915f5dd56862e4e77","/static/js/runtime~main.a8a9905a.js.map":"2510643041ce395196dfc3f9ae31cd72d7127dbd8457479959c6e22dd1b1eaeb"}}
+[debug] [2023-04-27T10:23:38.054Z] <<< [apiv2][status] POST https://firebasehosting.googleapis.com/v1beta1/projects/52676973475/sites/todo-app-cp-b3e1d/versions/483ffb18374affee:populateFiles 200
+[debug] [2023-04-27T10:23:38.056Z] <<< [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/52676973475/sites/todo-app-cp-b3e1d/versions/483ffb18374affee:populateFiles {"uploadUrl":"https://upload-firebasehosting.googleapis.com/upload/sites/todo-app-cp-b3e1d/versions/483ffb18374affee/files"}
+[debug] [2023-04-27T10:23:38.057Z] [hosting][populate queue][FINAL] {"max":7523,"min":7523,"avg":7523,"active":0,"complete":1,"success":1,"errored":0,"retried":0,"total":1,"elapsed":7523}
+[debug] [2023-04-27T10:23:38.058Z] [hosting] uploads queued: 0
+[debug] [2023-04-27T10:23:38.059Z] [hosting][upload queue][FINAL] {"max":0,"min":9999999999,"avg":0,"active":0,"complete":0,"success":0,"errored":0,"retried":0,"total":0,"elapsed":1682591018059}
+[info] ✔  hosting[todo-app-cp-b3e1d]: file upload complete 
+[debug] [2023-04-27T10:23:38.066Z] [hosting] deploy completed after 7543ms
+[debug] [2023-04-27T10:23:38.077Z] [
+  {
+    "config": {
+      "public": "build",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ],
+      "site": "todo-app-cp-b3e1d"
+    },
+    "version": "projects/52676973475/sites/todo-app-cp-b3e1d/versions/483ffb18374affee"
+  }
+]
+[info] i  hosting[todo-app-cp-b3e1d]: finalizing version... 
+[debug] [2023-04-27T10:23:38.090Z] >>> [apiv2][query] PATCH https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions/483ffb18374affee updateMask=status%2Cconfig
+[debug] [2023-04-27T10:23:38.091Z] >>> [apiv2][body] PATCH https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions/483ffb18374affee {"status":"FINALIZED","config":{"rewrites":[{"glob":"**","path":"/index.html"}]}}
+[debug] [2023-04-27T10:23:45.600Z] <<< [apiv2][status] PATCH https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions/483ffb18374affee 200
+[debug] [2023-04-27T10:23:45.601Z] <<< [apiv2][body] PATCH https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/versions/483ffb18374affee {"name":"projects/52676973475/sites/todo-app-cp-b3e1d/versions/483ffb18374affee","status":"FINALIZED","config":{"rewrites":[{"glob":"**","path":"/index.html"}]},"labels":{"deployment-tool":"cli-firebase"},"createTime":"2023-04-27T10:23:22.236750Z","createUser":{"email":"ephywaanofii@gmail.com"},"finalizeTime":"2023-04-27T10:23:37.832306Z","finalizeUser":{"email":"ephywaanofii@gmail.com"}}
+[debug] [2023-04-27T10:23:45.601Z] [hosting] finalized version for todo-app-cp-b3e1d:[object Object]
+[info] ✔  hosting[todo-app-cp-b3e1d]: version finalized 
+[info] i  hosting[todo-app-cp-b3e1d]: releasing new version... 
+[debug] [2023-04-27T10:23:45.604Z] >>> [apiv2][query] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/channels/live/releases versionName=projects%2F52676973475%2Fsites%2Ftodo-app-cp-b3e1d%2Fversions%2F483ffb18374affee
+[debug] [2023-04-27T10:23:45.605Z] >>> [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/channels/live/releases {}
+[debug] [2023-04-27T10:23:53.190Z] <<< [apiv2][status] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/channels/live/releases 200
+[debug] [2023-04-27T10:23:53.193Z] <<< [apiv2][body] POST https://firebasehosting.googleapis.com/v1beta1/projects/-/sites/todo-app-cp-b3e1d/channels/live/releases {"name":"projects/52676973475/sites/todo-app-cp-b3e1d/channels/live/releases/1682591024654000","version":{"name":"projects/52676973475/sites/todo-app-cp-b3e1d/versions/483ffb18374affee","status":"FINALIZED","config":{"rewrites":[{"glob":"**","path":"/index.html"}]},"labels":{"deployment-tool":"cli-firebase"},"createTime":"2023-04-27T10:23:22.236750Z","createUser":{"email":"ephywaanofii@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AGNmyxZG2oL9pw6MYLkHtCbxPJ90Fi-RceabuyqwHX2w"},"finalizeTime":"2023-04-27T10:23:37.832306Z","finalizeUser":{"email":"ephywaanofii@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AGNmyxZG2oL9pw6MYLkHtCbxPJ90Fi-RceabuyqwHX2w"}},"type":"DEPLOY","releaseTime":"2023-04-27T10:23:44.654Z","releaseUser":{"email":"ephywaanofii@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AGNmyxZG2oL9pw6MYLkHtCbxPJ90Fi-RceabuyqwHX2w"}}
+[debug] [2023-04-27T10:23:53.193Z] [hosting] release: {"name":"projects/52676973475/sites/todo-app-cp-b3e1d/channels/live/releases/1682591024654000","version":{"name":"projects/52676973475/sites/todo-app-cp-b3e1d/versions/483ffb18374affee","status":"FINALIZED","config":{"rewrites":[{"glob":"**","path":"/index.html"}]},"labels":{"deployment-tool":"cli-firebase"},"createTime":"2023-04-27T10:23:22.236750Z","createUser":{"email":"ephywaanofii@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AGNmyxZG2oL9pw6MYLkHtCbxPJ90Fi-RceabuyqwHX2w"},"finalizeTime":"2023-04-27T10:23:37.832306Z","finalizeUser":{"email":"ephywaanofii@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AGNmyxZG2oL9pw6MYLkHtCbxPJ90Fi-RceabuyqwHX2w"}},"type":"DEPLOY","releaseTime":"2023-04-27T10:23:44.654Z","releaseUser":{"email":"ephywaanofii@gmail.com","imageUrl":"https://lh3.googleusercontent.com/a/AGNmyxZG2oL9pw6MYLkHtCbxPJ90Fi-RceabuyqwHX2w"}}
+[info] ✔  hosting[todo-app-cp-b3e1d]: release complete 
+[info] 
+[info] ✔  Deploy complete! 
+[info] 
+[info] Project Console: https://console.firebase.google.com/project/todo-app-cp-b3e1d/overview
+[info] Hosting URL: https://todo-app-cp-b3e1d.web.app
+[debug] [2023-04-27T10:24:09.762Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:253:49)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+[error] 
+[error] Error: An unexpected error has occurred.
