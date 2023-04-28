@@ -23,12 +23,17 @@ function App() {
 
   function handleSubmitClick(event) {
     event.preventDefault()
-    db.collection('todos').add({
-      todo: input,
-      timestamp: firebase.firestore.FieldValue.serverTimestamp()
-    })
-    setTodos([...todos, input])
-    setInput('')
+    if (todos.length < 10) {
+      db.collection('todos').add({
+        todo: input,
+        timestamp: firebase.firestore.FieldValue.serverTimestamp()
+      })
+      setTodos([...todos, input])
+      setInput('')
+    }
+    else{
+      return alert("Only 10 message is allowed")
+    }
   }
   console.log(todos)
 
